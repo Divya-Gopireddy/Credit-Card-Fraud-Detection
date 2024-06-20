@@ -1,0 +1,1000 @@
+﻿Transaction ID,Date,Day of Week,Time,Type of Card,Entry Mode,Amount,Type of Transaction,Merchant Group,Country of Transaction,Shipping Address,Country of Residence,Gender,Age,Bank,Fraud
+#3577 209,14-Oct-20,Wednesday,19,Visa,Tap,?5,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,25.2,RBS,0
+#3039 221,14-Oct-20,Wednesday,17,MasterCard,PIN,?288,POS,Services,USA,USA,USA,F,49.6,Lloyds,0
+#2694 780,14-Oct-20,Wednesday,14,Visa,Tap,?5,POS,Restaurant,India,India,India,F,42.2,Barclays,0
+#2640 960,13-Oct-20,Tuesday,14,Visa,Tap,?28,POS,Entertainment,United Kingdom,India,United Kingdom,F,51,Barclays,0
+#2771 031,13-Oct-20,Tuesday,23,Visa,CVC,?91,Online,Electronics,USA,USA,United Kingdom,M,38,Halifax,1
+#3446 698,13-Oct-20,Tuesday,20,MasterCard,Tap,?30,POS,Children,India,India,India,M,48.4,Monzo,0
+#3652 191,13-Oct-20,Tuesday,18,Visa,CVC,?231,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,39.5,Barclays,0
+#3161 927,13-Oct-20,Tuesday,18,MasterCard,CVC,?154,Online,Services,USA,USA,United Kingdom,M,37.8,HSBC,0
+#3025 809,13-Oct-20,Tuesday,23,MasterCard,PIN,?39,ATM,Fashion,Russia,Russia,United Kingdom,F,43.3,Metro,0
+#3413 696,14-Oct-20,Wednesday,23,MasterCard,Tap,?17,POS,Entertainment,India,India,India,M,69.9,Barlcays,0
+#2667 502,13-Oct-20,Tuesday,11,Visa,PIN,?326,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,54.8,Metro,0
+#3474 192,14-Oct-20,Wednesday,1,MasterCard,PIN,?106,POS,Fashion,Russia,Russia,United Kingdom,F,48.7,Metro,1
+#3328 082,13-Oct-20,Tuesday,21,MasterCard,PIN,?21,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,43.6,Barclays,0
+#3409 035,13-Oct-20,Tuesday,20,MasterCard,PIN,?211,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,46.4,HSBC,0
+#2605 734,13-Oct-20,Tuesday,11,Visa,Tap,?28,POS,Entertainment,United Kingdom,China,United Kingdom,F,50.6,Metro,0
+#3261 845,14-Oct-20,Wednesday,17,MasterCard,PIN,?98,ATM,Products,United Kingdom,United Kingdom,United Kingdom,F,37.2,Monzo,0
+#3513 029,13-Oct-20,Tuesday,0,MasterCard,CVC,?25,Online,Food,Russia,Russia,United Kingdom,M,54.3,Barlcays,1
+#3173 400,14-Oct-20,Wednesday,21,Visa,CVC,?242,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,62,Barlcays,0
+#2688 254,13-Oct-20,Tuesday,20,Visa,PIN,?22,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,28.5,Lloyds,0
+#3521 688,14-Oct-20,Wednesday,23,MasterCard,Tap,?29,POS,Products,India,India,United Kingdom,F,55,Halifax,0
+#2624 152,13-Oct-20,Tuesday,8,Visa,CVC,?397,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,29.9,Barclays,0
+#3498 300,13-Oct-20,Tuesday,19,Visa,CVC,?38,Online,Food,Russia,Russia,Russia,M,80.5,Barlcays,0
+#3222 155,13-Oct-20,Tuesday,17,MasterCard,PIN,?25,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,63.3,Monzo,0
+#2569 819,14-Oct-20,Wednesday,20,Visa,PIN,?38,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,45.5,Barclays,0
+#2980 181,14-Oct-20,Wednesday,9,MasterCard,CVC,?155,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,58.4,Halifax,0
+#2788 277,14-Oct-20,Wednesday,9,Visa,CVC,?12,Online,Children,China,China,China,M,47.2,Barclays,0
+#3000 512,13-Oct-20,Tuesday,21,Visa,PIN,?9,ATM,Services,Russia,Russia,United Kingdom,F,43.6,Halifax,0
+#3355 723,13-Oct-20,Tuesday,17,Visa,CVC,?381,Online,Food,United Kingdom,USA,United Kingdom,F,42.4,Monzo,0
+#2723 387,14-Oct-20,Wednesday,17,MasterCard,PIN,?94,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,46.1,Metro,0
+#3382 956,14-Oct-20,Wednesday,15,Visa,PIN,?30,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,45.1,Barclays,0
+#3435 814,13-Oct-20,Tuesday,22,MasterCard,CVC,?397,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,53.3,Metro,0
+#2875 854,13-Oct-20,Tuesday,7,Visa,CVC,?16,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,35.4,Barlcays,0
+#3580 308,13-Oct-20,Tuesday,18,MasterCard,PIN,?349,ATM,Gaming,USA,USA,United Kingdom,F,52,Barclays,0
+#2702 687,13-Oct-20,Tuesday,15,Visa,Tap,?29,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,35,Barclays,0
+#2742 819,13-Oct-20,Tuesday,11,Visa,CVC,?49,Online,Electronics,China,China,China,M,50.2,Barclays,0
+#2739 758,13-Oct-20,Tuesday,15,Visa,PIN,?270,ATM,Food,Russia,Russia,United Kingdom,M,50.9,Halifax,0
+#2946 662,14-Oct-20,Wednesday,18,Visa,Tap,?13,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,58.2,Barclays,0
+#3316 175,14-Oct-20,Wednesday,3,MasterCard,PIN,?5,ATM,Services,China,China,United Kingdom,F,62.8,Barlcays,1
+#3322 751,14-Oct-20,Wednesday,19,Visa,PIN,?11,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,45,Monzo,0
+#3465 158,13-Oct-20,Tuesday,14,Visa,PIN,?314,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,40.4,RBS,0
+#2816 517,14-Oct-20,Wednesday,12,Visa,PIN,?320,ATM,Children,United Kingdom,Russia,United Kingdom,M,47.3,Lloyds,0
+#3470 100,13-Oct-20,Tuesday,8,Visa,CVC,?6,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,23.3,Metro,0
+#2617 497,14-Oct-20,Wednesday,4,Visa,PIN,?206,POS,Children,United Kingdom,India,United Kingdom,M,46.3,Barclays,1
+#3537 427,14-Oct-20,Wednesday,23,Visa,PIN,?57,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,26,Barclays,0
+#3366 463,13-Oct-20,Tuesday,23,Visa,PIN,?21,ATM,Restaurant,United Kingdom,Russia,United Kingdom,M,72.9,RBS,0
+#2828 414,14-Oct-20,Wednesday,7,Visa,CVC,?59,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,48.3,Monzo,0
+#2816 113,14-Oct-20,Wednesday,9,MasterCard,PIN,?12,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,50.6,Barclays,0
+#2616 954,14-Oct-20,Wednesday,19,Visa,PIN,?26,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,36.6,Monzo,0
+#2850 531,13-Oct-20,Tuesday,19,MasterCard,CVC,?153,Online,Food,Russia,United Kingdom,Russia,M,50.3,Barclays,0
+#3560 442,13-Oct-20,Tuesday,14,MasterCard,CVC,?27,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,29.7,Lloyds,0
+#2769 870,14-Oct-20,Wednesday,17,MasterCard,Tap,?20,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,57,Barclays,0
+#2728 567,13-Oct-20,Tuesday,1,MasterCard,Tap,?30,POS,Children,United Kingdom,China,United Kingdom,F,37.2,Barclays,1
+#2844 128,13-Oct-20,Tuesday,21,MasterCard,PIN,?123,POS,Children,United Kingdom,USA,United Kingdom,F,38.8,Barclays,0
+#3032 120,14-Oct-20,Wednesday,8,MasterCard,PIN,?285,POS,Entertainment,USA,USA,United Kingdom,M,51.2,HSBC,0
+#3250 080,14-Oct-20,Wednesday,5,Visa,CVC,?24,Online,Children,United Kingdom,USA,United Kingdom,M,48.5,Barclays,1
+#3256 652,14-Oct-20,Wednesday,22,MasterCard,Tap,?23,POS,Products,United Kingdom,India,United Kingdom,M,48.1,Lloyds,0
+#2588 721,14-Oct-20,Wednesday,23,MasterCard,PIN,?226,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,45.9,Barclays,0
+#3639 210,14-Oct-20,Wednesday,9,MasterCard,CVC,?12,Online,Entertainment,USA,USA,USA,M,45.6,Monzo,0
+#3478 603,13-Oct-20,Tuesday,0,MasterCard,PIN,?22,ATM,Electronics,United Kingdom,India,United Kingdom,F,53.8,RBS,1
+#3348 821,14-Oct-20,Wednesday,11,MasterCard,PIN,?296,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,53,RBS,0
+#3022 566,13-Oct-20,Tuesday,7,Visa,CVC,?353,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,M,58.2,Monzo,0
+#3532 879,13-Oct-20,Tuesday,10,MasterCard,PIN,?60,POS,Subscription,India,India,United Kingdom,M,50.9,Barclays,0
+#3237 241,13-Oct-20,Tuesday,22,MasterCard,PIN,?134,POS,Electronics,United Kingdom,China,United Kingdom,M,40.6,Monzo,0
+#2755 798,13-Oct-20,Tuesday,7,Visa,PIN,?12,ATM,Children,United Kingdom,USA,United Kingdom,F,51.9,Barlcays,1
+#2644 017,13-Oct-20,Tuesday,21,MasterCard,PIN,?80,POS,Food,United Kingdom,United Kingdom,United Kingdom,F,40,Barclays,0
+#2973 712,14-Oct-20,Wednesday,13,MasterCard,CVC,?296,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,41.8,Barlcays,0
+#2995 519,14-Oct-20,Wednesday,23,MasterCard,CVC,?241,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,36.6,RBS,0
+#2875 470,14-Oct-20,Wednesday,21,Visa,PIN,?86,ATM,Restaurant,Russia,Russia,United Kingdom,F,51.2,Metro,0
+#3636 170,13-Oct-20,Tuesday,12,Visa,PIN,?309,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,48.7,Metro,0
+#3460 102,13-Oct-20,Tuesday,17,MasterCard,PIN,?23,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,55.1,RBS,0
+#2675 985,14-Oct-20,Wednesday,9,MasterCard,PIN,?21,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,58.7,Halifax,0
+#2719 075,13-Oct-20,Tuesday,10,Visa,PIN,?161,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,30.3,RBS,0
+#3417 074,14-Oct-20,Wednesday,11,MasterCard,PIN,?353,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,48.3,Barclays,0
+#3286 525,14-Oct-20,Wednesday,7,MasterCard,CVC,?17,Online,Food,United Kingdom,United Kingdom,United Kingdom,M,62.3,RBS,0
+#2806 654,14-Oct-20,Wednesday,19,MasterCard,PIN,?25,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,57.3,Metro,0
+#3482 463,13-Oct-20,Tuesday,8,MasterCard,PIN,?261,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,50,Barclays,0
+#3373 446,14-Oct-20,Wednesday,23,Visa,Tap,?6,POS,Electronics,United Kingdom,USA,United Kingdom,M,31.5,Barclays,0
+#3641 469,14-Oct-20,Wednesday,2,Visa,Tap,?26,POS,Children,United Kingdom,Russia,United Kingdom,M,45.7,Metro,1
+#3284 574,14-Oct-20,Wednesday,17,Visa,PIN,?264,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,40.2,Metro,0
+#3506 217,13-Oct-20,Tuesday,7,Visa,CVC,?25,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,46.2,RBS,0
+#3063 704,14-Oct-20,Wednesday,21,MasterCard,Tap,?10,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,46.9,Metro,0
+#3089 858,13-Oct-20,Tuesday,9,MasterCard,PIN,?27,ATM,Children,Russia,United Kingdom,Russia,M,42.6,HSBC,0
+#3515 806,14-Oct-20,Wednesday,23,MasterCard,CVC,?12,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,56.8,Metro,0
+#2693 237,13-Oct-20,Tuesday,12,Visa,PIN,?53,ATM,Food,China,China,China,M,35.9,Barclays,0
+#2548 218,14-Oct-20,Wednesday,7,MasterCard,Tap,?24,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,53.8,Barclays,0
+#3430 079,13-Oct-20,Tuesday,21,MasterCard,PIN,?119,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,61.8,HSBC,0
+#3393 807,14-Oct-20,Wednesday,8,Visa,PIN,?25,ATM,Subscription,China,China,China,M,40.4,Barclays,0
+#3085 158,14-Oct-20,Wednesday,15,Visa,Tap,?11,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,33.6,HSBC,0
+#3169 897,14-Oct-20,Wednesday,19,Visa,Tap,?26,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,49.1,Halifax,0
+#3299 824,14-Oct-20,Wednesday,13,Visa,Tap,?19,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,63.3,Lloyds,0
+#3373 238,14-Oct-20,Wednesday,17,MasterCard,PIN,?330,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47.5,Metro,0
+#3080 852,13-Oct-20,Tuesday,11,Visa,PIN,?155,POS,Subscription,China,China,China,F,60,Barclays,0
+#2679 944,13-Oct-20,Tuesday,20,MasterCard,Tap,?28,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,38,RBS,0
+#2849 868,14-Oct-20,Wednesday,10,MasterCard,Tap,?23,POS,Products,USA,USA,USA,F,57.8,Halifax,0
+#2888 790,13-Oct-20,Tuesday,19,MasterCard,PIN,?22,ATM,Fashion,India,India,India,M,49.4,Barlcays,0
+#3033 906,13-Oct-20,Tuesday,18,Visa,CVC,?19,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,28.5,HSBC,0
+#2853 274,13-Oct-20,Tuesday,7,Visa,Tap,?14,POS,Services,India,India,India,M,55.7,Barclays,0
+#3348 999,14-Oct-20,Wednesday,16,Visa,PIN,?110,POS,Services,Russia,Russia,Russia,F,45.8,Barlcays,0
+#3064 971,13-Oct-20,Tuesday,13,Visa,Tap,?29,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,45.1,Lloyds,0
+#2967 234,13-Oct-20,Tuesday,23,MasterCard,Tap,?23,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,33.2,Barclays,0
+#2742 824,13-Oct-20,Tuesday,5,Visa,CVC,?18,Online,Food,USA,USA,United Kingdom,M,43.1,HSBC,1
+#3602 783,14-Oct-20,Wednesday,19,Visa,PIN,?20,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,44.7,RBS,0
+#2604 009,14-Oct-20,Wednesday,13,Visa,CVC,?19,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,52.5,Barclays,0
+#2784 622,14-Oct-20,Wednesday,3,MasterCard,CVC,?22,Online,Entertainment,Russia,Russia,United Kingdom,M,57.7,Halifax,1
+#3250 073,14-Oct-20,Wednesday,18,Visa,Tap,?23,POS,Products,United Kingdom,Russia,United Kingdom,M,45.2,Barclays,0
+#3582 633,14-Oct-20,Wednesday,7,MasterCard,CVC,?173,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,61.6,RBS,0
+#3659 502,13-Oct-20,Tuesday,16,Visa,CVC,?18,Online,Food,United Kingdom,India,United Kingdom,M,36.3,HSBC,0
+#3196 112,13-Oct-20,Tuesday,15,Visa,PIN,?115,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,49.3,Barclays,0
+#2719 880,13-Oct-20,Tuesday,13,MasterCard,PIN,?189,POS,Food,China,China,United Kingdom,F,52.8,Barclays,1
+#3220 524,13-Oct-20,Tuesday,8,Visa,PIN,?219,POS,Gaming,India,India,United Kingdom,F,50.2,Monzo,0
+#3184 657,14-Oct-20,Wednesday,11,Visa,CVC,?10,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,41.3,HSBC,0
+#3322 447,14-Oct-20,Wednesday,19,MasterCard,PIN,?17,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,30.1,HSBC,0
+#3653 884,13-Oct-20,Tuesday,17,MasterCard,PIN,?110,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,67.2,Barclays,0
+#3314 821,14-Oct-20,Wednesday,13,Visa,PIN,?268,ATM,Children,USA,United Kingdom,USA,F,59.1,Lloyds,0
+#3090 404,14-Oct-20,Wednesday,16,Visa,PIN,?10,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,54.7,Halifax,0
+#2655 662,14-Oct-20,Wednesday,13,MasterCard,Tap,?10,POS,Food,USA,USA,United Kingdom,F,36.9,Halifax,0
+#2990 462,14-Oct-20,Wednesday,23,Visa,CVC,?27,Online,Subscription,India,India,India,M,48.4,Barclays,0
+#3092 232,14-Oct-20,Wednesday,22,Visa,PIN,?20,ATM,Children,Russia,United Kingdom,Russia,F,32.1,Barlcays,0
+#3144 958,14-Oct-20,Wednesday,7,MasterCard,CVC,?9,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,55,Metro,0
+#3084 978,14-Oct-20,Wednesday,9,Visa,Tap,?11,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,27.2,Barclays,0
+#3121 946,14-Oct-20,Wednesday,10,MasterCard,Tap,?6,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,47,Metro,0
+#3610 251,13-Oct-20,Tuesday,20,Visa,PIN,?19,ATM,Fashion,United Kingdom,China,United Kingdom,F,53.5,Metro,0
+#3315 109,14-Oct-20,Wednesday,23,MasterCard,CVC,?341,Online,Food,United Kingdom,United Kingdom,United Kingdom,M,42.3,Barclays,0
+#3436 864,14-Oct-20,Wednesday,8,Visa,PIN,?92,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,41.1,Halifax,0
+#3009 706,13-Oct-20,Tuesday,8,MasterCard,Tap,?7,POS,Food,USA,USA,USA,F,40.9,HSBC,0
+#2712 770,13-Oct-20,Tuesday,18,Visa,PIN,?145,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,48,Metro,0
+#3096 560,14-Oct-20,Wednesday,8,Visa,PIN,?382,POS,Subscription,China,China,China,F,42.7,Barclays,0
+#3286 840,13-Oct-20,Tuesday,9,Visa,Tap,?9,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,43.4,Metro,0
+#2849 439,13-Oct-20,Tuesday,17,MasterCard,CVC,?16,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,53.8,Barclays,0
+#2952 877,14-Oct-20,Wednesday,18,Visa,PIN,?358,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,53.9,Barlcays,0
+#3441 659,13-Oct-20,Tuesday,9,Visa,Tap,?7,POS,Children,China,China,United Kingdom,F,46.2,RBS,1
+#2573 953,13-Oct-20,Tuesday,7,Visa,PIN,?19,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,39.7,Barclays,0
+#3103 826,14-Oct-20,Wednesday,14,Visa,PIN,?318,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,63.9,Barlcays,0
+#2837 226,13-Oct-20,Tuesday,21,MasterCard,CVC,?93,Online,Gaming,United Kingdom,USA,United Kingdom,M,48.3,HSBC,0
+#2824 230,13-Oct-20,Tuesday,7,Visa,CVC,?66,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,40.3,HSBC,0
+#3208 060,13-Oct-20,Tuesday,7,MasterCard,CVC,?6,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,30.6,Barclays,0
+#3133 756,14-Oct-20,Wednesday,16,MasterCard,Tap,?27,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,55.8,RBS,0
+#3314 279,14-Oct-20,Wednesday,9,Visa,CVC,?130,Online,Entertainment,USA,USA,USA,F,46.2,Halifax,0
+#3039 962,13-Oct-20,Tuesday,11,MasterCard,PIN,?98,POS,Fashion,United Kingdom,India,United Kingdom,M,52.2,Barlcays,0
+#3672 658,14-Oct-20,Wednesday,19,Visa,CVC,?21,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,47.9,Barlcays,0
+#3472 977,14-Oct-20,Wednesday,7,Visa,CVC,?325,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,45.2,Barclays,0
+#2880 594,13-Oct-20,Tuesday,20,MasterCard,CVC,?111,Online,Products,United Kingdom,United Kingdom,United Kingdom,M,44.9,Metro,0
+#3608 396,14-Oct-20,Wednesday,12,MasterCard,PIN,?380,POS,Gaming,United Kingdom,China,United Kingdom,M,54,Barclays,0
+#3476 220,14-Oct-20,Wednesday,16,MasterCard,PIN,?26,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,51.6,Monzo,0
+#3162 163,14-Oct-20,Wednesday,16,Visa,PIN,?347,POS,Food,China,China,China,M,41.6,Metro,0
+#3455 037,13-Oct-20,Tuesday,17,Visa,PIN,?17,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,39.7,Lloyds,0
+#3047 056,14-Oct-20,Wednesday,17,MasterCard,PIN,?325,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,56.7,Metro,0
+#2888 542,13-Oct-20,Tuesday,10,Visa,PIN,?27,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,49.4,RBS,0
+#2698 680,14-Oct-20,Wednesday,14,MasterCard,Tap,?19,POS,Food,United Kingdom,USA,United Kingdom,M,46.6,Barclays,0
+#3389 193,13-Oct-20,Tuesday,18,MasterCard,PIN,?233,ATM,Restaurant,China,China,China,M,60.5,Barclays,0
+#3525 996,13-Oct-20,Tuesday,11,Visa,CVC,?143,Online,Food,United Kingdom,China,United Kingdom,M,38.2,Barclays,0
+#2759 497,14-Oct-20,Wednesday,9,Visa,PIN,?23,ATM,Products,United Kingdom,Russia,United Kingdom,M,54.4,Barclays,0
+#2945 053,13-Oct-20,Tuesday,21,Visa,CVC,?9,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,55.2,RBS,0
+#3539 356,14-Oct-20,Wednesday,20,MasterCard,CVC,?129,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,F,42.8,HSBC,0
+#3013 195,14-Oct-20,Wednesday,13,Visa,PIN,?70,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,47.1,Metro,0
+#3477 023,13-Oct-20,Tuesday,22,MasterCard,CVC,?79,Online,Restaurant,India,India,India,F,58.3,Monzo,0
+#3000 313,14-Oct-20,Wednesday,23,MasterCard,Tap,?6,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,58.7,Barlcays,0
+#3204 990,14-Oct-20,Wednesday,21,Visa,PIN,?62,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,51.2,Monzo,0
+#3590 908,14-Oct-20,Wednesday,8,MasterCard,PIN,?53,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,34.3,Barlcays,0
+#3313 846,14-Oct-20,Wednesday,15,Visa,CVC,?375,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,65.3,Barclays,0
+#3062 231,13-Oct-20,Tuesday,20,MasterCard,PIN,?52,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,36,Lloyds,0
+#3178 643,14-Oct-20,Wednesday,9,MasterCard,CVC,?12,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,M,55.9,HSBC,0
+#2849 111,14-Oct-20,Wednesday,18,Visa,CVC,?180,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,54.7,Lloyds,0
+#3187 128,14-Oct-20,Wednesday,20,MasterCard,PIN,?95,POS,Restaurant,USA,USA,USA,F,26.3,RBS,0
+#2617 592,13-Oct-20,Tuesday,6,Visa,CVC,?26,Online,Products,United Kingdom,Russia,United Kingdom,F,43.3,Monzo,1
+#2555 000,13-Oct-20,Tuesday,20,MasterCard,CVC,?241,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,36.2,Metro,0
+#3591 534,14-Oct-20,Wednesday,9,MasterCard,PIN,?309,POS,Services,India,India,India,F,55.6,Monzo,0
+#3217 967,13-Oct-20,Tuesday,12,MasterCard,CVC,?71,Online,Gaming,United Kingdom,India,United Kingdom,M,68.9,Barclays,0
+#3621 484,14-Oct-20,Wednesday,9,Visa,CVC,?11,Online,Products,United Kingdom,United Kingdom,United Kingdom,M,56.8,Monzo,0
+#2597 817,13-Oct-20,Tuesday,19,Visa,CVC,?21,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,25.1,HSBC,0
+#3510 713,13-Oct-20,Tuesday,17,MasterCard,Tap,?22,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,54.2,Halifax,0
+#3204 979,14-Oct-20,Wednesday,7,Visa,PIN,?9,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,39.5,Barclays,0
+#2999 087,14-Oct-20,Wednesday,18,Visa,PIN,?87,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,33.1,Barclays,0
+#3571 023,13-Oct-20,Tuesday,19,MasterCard,CVC,?340,Online,Products,United Kingdom,USA,United Kingdom,M,43.3,Barclays,0
+#3407 727,13-Oct-20,Tuesday,13,Visa,PIN,?169,ATM,Entertainment,United Kingdom,China,United Kingdom,M,56.1,Barclays,0
+#2603 517,13-Oct-20,Tuesday,20,Visa,PIN,?345,ATM,Food,Russia,Russia,Russia,M,39.6,Barclays,0
+#2613 795,14-Oct-20,Wednesday,9,Visa,PIN,?226,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,50.3,Lloyds,0
+#3520 099,14-Oct-20,Wednesday,22,MasterCard,CVC,?384,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,60.4,Monzo,0
+#3653 700,14-Oct-20,Wednesday,23,Visa,CVC,?298,Online,Children,USA,United Kingdom,USA,F,45.9,Barclays,0
+#3322 094,13-Oct-20,Tuesday,14,Visa,CVC,?229,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,57.6,Barlcays,0
+#3217 219,13-Oct-20,Tuesday,10,Visa,CVC,?34,Online,Children,United Kingdom,Russia,United Kingdom,F,27.5,RBS,0
+#2773 658,14-Oct-20,Wednesday,9,Visa,PIN,?14,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,41.9,Barlcays,0
+#3384 743,14-Oct-20,Wednesday,21,MasterCard,CVC,?36,Online,Entertainment,United Kingdom,Russia,United Kingdom,M,33.2,RBS,0
+#3632 663,13-Oct-20,Tuesday,18,Visa,CVC,?19,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,36.5,Barclays,0
+#3490 266,13-Oct-20,Tuesday,19,MasterCard,PIN,?29,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,40.4,Barclays,0
+#3219 618,13-Oct-20,Tuesday,18,MasterCard,PIN,?216,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,48,HSBC,0
+#3312 404,14-Oct-20,Wednesday,0,MasterCard,Tap,?12,POS,Subscription,India,India,United Kingdom,M,34.8,Halifax,1
+#3582 140,14-Oct-20,Wednesday,19,MasterCard,Tap,?24,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,49.8,Barclays,0
+#3380 749,14-Oct-20,Wednesday,8,MasterCard,PIN,?20,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,38.8,Barclays,0
+#2886 851,14-Oct-20,Wednesday,13,MasterCard,CVC,?22,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,54.1,HSBC,0
+#3478 488,14-Oct-20,Wednesday,7,MasterCard,Tap,?10,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,46.5,Monzo,0
+#3554 455,13-Oct-20,Tuesday,10,MasterCard,PIN,?337,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,43.2,Barclays,0
+#3373 019,13-Oct-20,Tuesday,8,Visa,CVC,?22,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,38.8,Barclays,0
+#3447 619,14-Oct-20,Wednesday,19,MasterCard,PIN,?347,POS,Services,Russia,Russia,United Kingdom,M,53.8,RBS,0
+#3511 423,14-Oct-20,Wednesday,21,MasterCard,PIN,?394,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,60.4,Monzo,0
+#2574 537,13-Oct-20,Tuesday,16,Visa,CVC,?25,Online,Subscription,China,China,China,F,39.8,Metro,0
+#3580 486,13-Oct-20,Tuesday,15,Visa,CVC,?21,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,38.2,RBS,0
+#3263 322,14-Oct-20,Wednesday,11,MasterCard,PIN,?9,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,68.9,Lloyds,0
+#3201 336,14-Oct-20,Wednesday,22,Visa,PIN,?35,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,69.2,Lloyds,0
+#3463 381,13-Oct-20,Tuesday,9,Visa,CVC,?23,Online,Food,Russia,Russia,Russia,F,26.3,Monzo,0
+#3127 649,13-Oct-20,Tuesday,19,Visa,Tap,?24,POS,Services,Russia,Russia,Russia,M,31.5,Barclays,0
+#3611 905,14-Oct-20,Wednesday,8,MasterCard,CVC,?299,Online,Electronics,Russia,Russia,Russia,F,33.3,Lloyds,0
+#3672 225,14-Oct-20,Wednesday,21,Visa,Tap,?16,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,40.2,Barclays,0
+#2617 037,13-Oct-20,Tuesday,8,MasterCard,Tap,?15,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,40.4,Monzo,0
+#3460 589,14-Oct-20,Wednesday,14,Visa,PIN,?12,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,33.4,RBS,0
+#3209 057,13-Oct-20,Tuesday,15,Visa,PIN,?179,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,55.6,RBS,0
+#2898 192,14-Oct-20,Wednesday,12,Visa,Tap,?23,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,29.8,Barclays,0
+#3650 744,14-Oct-20,Wednesday,21,MasterCard,Tap,?27,POS,Fashion,United Kingdom,India,United Kingdom,M,51.7,Lloyds,0
+#3472 341,14-Oct-20,Wednesday,10,Visa,Tap,?22,POS,Gaming,Russia,Russia,United Kingdom,F,32.9,Barclays,1
+#2989 953,13-Oct-20,Tuesday,17,MasterCard,Tap,?18,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,57.8,Metro,0
+#3470 050,14-Oct-20,Wednesday,23,MasterCard,PIN,?133,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,55.4,RBS,0
+#2872 686,13-Oct-20,Tuesday,11,MasterCard,PIN,?154,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,52.6,HSBC,0
+#3432 654,13-Oct-20,Tuesday,21,MasterCard,PIN,?23,ATM,Children,China,China,China,M,42.3,Barclays,0
+#2569 828,13-Oct-20,Tuesday,19,Visa,PIN,?361,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,65.9,Lloyds,0
+#2740 864,13-Oct-20,Tuesday,18,MasterCard,CVC,?17,Online,Restaurant,India,India,United Kingdom,F,63.1,Monzo,1
+#2763 581,13-Oct-20,Tuesday,10,MasterCard,PIN,?247,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,29.6,Lloyds,0
+#3198 798,14-Oct-20,Wednesday,20,MasterCard,PIN,?6,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,42.2,Barclays,0
+#3110 310,13-Oct-20,Tuesday,20,MasterCard,CVC,?345,Online,Food,China,China,China,F,42.1,HSBC,0
+#2595 554,13-Oct-20,Tuesday,20,Visa,CVC,?25,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47,Halifax,0
+#3083 171,14-Oct-20,Wednesday,1,MasterCard,CVC,?29,Online,Restaurant,United Kingdom,USA,United Kingdom,M,41.9,HSBC,1
+#3122 670,14-Oct-20,Wednesday,8,MasterCard,Tap,?29,POS,Food,United Kingdom,United Kingdom,United Kingdom,F,34.5,Barclays,0
+#3544 235,13-Oct-20,Tuesday,19,Visa,CVC,?97,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,40.8,Metro,0
+#3173 793,13-Oct-20,Tuesday,12,Visa,PIN,?16,ATM,Children,United Kingdom,India,United Kingdom,F,45.6,Metro,1
+#2868 721,14-Oct-20,Wednesday,22,MasterCard,PIN,?151,POS,Services,China,China,United Kingdom,F,40.1,RBS,0
+#3634 525,13-Oct-20,Tuesday,18,MasterCard,Tap,?8,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,29,Monzo,0
+#3523 734,13-Oct-20,Tuesday,19,MasterCard,PIN,?41,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,37.5,Monzo,0
+#2614 950,14-Oct-20,Wednesday,8,Visa,PIN,?15,ATM,Gaming,United Kingdom,USA,United Kingdom,F,49.5,Barclays,0
+#3202 747,13-Oct-20,Tuesday,19,MasterCard,PIN,?15,ATM,Entertainment,United Kingdom,China,United Kingdom,F,56.6,Barlcays,0
+#2955 081,14-Oct-20,Wednesday,15,Visa,Tap,?27,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,47.4,RBS,0
+#3412 351,13-Oct-20,Tuesday,11,Visa,Tap,?25,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,45.2,Barclays,0
+#2742 488,14-Oct-20,Wednesday,14,MasterCard,PIN,?320,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,43.1,Monzo,0
+#2931 419,14-Oct-20,Wednesday,7,MasterCard,PIN,?6,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,37.5,Barclays,0
+#3320 517,14-Oct-20,Wednesday,19,Visa,Tap,?17,POS,Entertainment,USA,USA,United Kingdom,M,38.4,Barclays,1
+#3234 967,13-Oct-20,Tuesday,11,MasterCard,PIN,?20,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,49.9,Barclays,0
+#2644 703,13-Oct-20,Tuesday,18,MasterCard,PIN,?98,ATM,Entertainment,India,India,India,F,44.3,Barlcays,0
+#3635 566,13-Oct-20,Tuesday,16,Visa,PIN,?138,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,29.9,HSBC,0
+#3477 942,13-Oct-20,Tuesday,11,MasterCard,CVC,?342,Online,Entertainment,USA,USA,USA,F,57.4,Lloyds,0
+#2698 684,14-Oct-20,Wednesday,13,Visa,CVC,?24,Online,Electronics,Russia,Russia,Russia,M,45,Halifax,0
+#2778 586,14-Oct-20,Wednesday,20,Visa,CVC,?77,Online,Restaurant,USA,USA,United Kingdom,F,33.5,Barclays,0
+#2600 283,13-Oct-20,Tuesday,13,MasterCard,PIN,?5,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,45.4,RBS,0
+#2876 629,14-Oct-20,Wednesday,11,MasterCard,Tap,?13,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,44.5,RBS,0
+#3075 629,14-Oct-20,Wednesday,21,MasterCard,PIN,?288,ATM,Services,United Kingdom,Russia,United Kingdom,M,34,Barlcays,0
+#2652 139,13-Oct-20,Tuesday,21,Visa,CVC,?362,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,32,Barclays,0
+#3238 456,13-Oct-20,Tuesday,5,Visa,CVC,?9,Online,Children,Russia,Russia,United Kingdom,F,52.1,Barlcays,1
+#3195 802,14-Oct-20,Wednesday,7,Visa,PIN,?394,POS,Products,United Kingdom,Russia,United Kingdom,M,64.7,RBS,0
+#2663 706,13-Oct-20,Tuesday,21,Visa,PIN,?29,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,47.3,RBS,0
+#3615 863,13-Oct-20,Tuesday,17,Visa,PIN,?385,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,53.2,RBS,0
+#2576 127,14-Oct-20,Wednesday,22,Visa,PIN,?11,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,47.5,HSBC,0
+#3098 687,14-Oct-20,Wednesday,14,Visa,PIN,?199,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,52.5,HSBC,0
+#3460 606,14-Oct-20,Wednesday,20,Visa,Tap,?22,POS,Products,Russia,Russia,Russia,F,56.7,RBS,0
+#2989 291,14-Oct-20,Wednesday,14,Visa,PIN,?233,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,43.3,Barclays,0
+#3366 119,14-Oct-20,Wednesday,9,Visa,CVC,?30,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,41,Barclays,0
+#2893 765,13-Oct-20,Tuesday,16,MasterCard,CVC,?22,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,58.2,Metro,0
+#2994 339,13-Oct-20,Tuesday,21,Visa,CVC,?25,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,45.4,Barclays,0
+#2949 236,14-Oct-20,Wednesday,10,MasterCard,PIN,?28,ATM,Products,United Kingdom,United Kingdom,United Kingdom,F,36.6,Barclays,0
+#3052 179,13-Oct-20,Tuesday,9,MasterCard,PIN,?23,ATM,Entertainment,United Kingdom,USA,United Kingdom,M,45.1,Metro,0
+#3144 426,14-Oct-20,Wednesday,23,MasterCard,CVC,?199,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,53.9,Barclays,0
+#2987 245,13-Oct-20,Tuesday,18,MasterCard,PIN,?306,POS,Food,United Kingdom,United Kingdom,United Kingdom,F,21.8,Barlcays,0
+#3153 801,14-Oct-20,Wednesday,14,Visa,CVC,?5,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,F,51.1,Monzo,0
+#2725 103,14-Oct-20,Wednesday,15,Visa,Tap,?21,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,35.6,HSBC,0
+#2678 069,13-Oct-20,Tuesday,19,Visa,Tap,?18,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,40.7,Lloyds,0
+#2688 553,14-Oct-20,Wednesday,7,Visa,CVC,?153,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,68.3,Lloyds,0
+#2996 701,13-Oct-20,Tuesday,9,MasterCard,CVC,?150,Online,Services,India,India,United Kingdom,M,49.6,Halifax,0
+#3297 816,13-Oct-20,Tuesday,4,MasterCard,Tap,?24,POS,Fashion,India,India,United Kingdom,M,73.8,Barclays,1
+#3482 329,14-Oct-20,Wednesday,11,Visa,CVC,?176,Online,Services,United Kingdom,Russia,United Kingdom,F,36.8,Barclays,0
+#2789 114,13-Oct-20,Tuesday,19,MasterCard,CVC,?21,Online,Fashion,India,India,United Kingdom,M,37.4,Barlcays,1
+#2989 554,13-Oct-20,Tuesday,19,MasterCard,CVC,?296,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,52.8,Barclays,0
+#2853 703,13-Oct-20,Tuesday,22,MasterCard,PIN,?143,ATM,Electronics,Russia,Russia,United Kingdom,F,42.4,Barclays,0
+#3543 266,14-Oct-20,Wednesday,10,Visa,PIN,?307,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,40.7,Barclays,0
+#3097 673,13-Oct-20,Tuesday,15,Visa,PIN,?7,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,52,Barlcays,0
+#2999 037,14-Oct-20,Wednesday,16,MasterCard,CVC,?26,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,30.2,Barclays,0
+#3097 488,13-Oct-20,Tuesday,18,Visa,CVC,?246,Online,Children,India,India,India,M,47.3,Monzo,0
+#2873 220,13-Oct-20,Tuesday,20,Visa,CVC,?253,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,43.1,Barclays,0
+#3254 477,14-Oct-20,Wednesday,10,Visa,PIN,?175,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,37.9,Monzo,0
+#3093 900,14-Oct-20,Wednesday,11,Visa,CVC,?25,Online,Services,India,India,United Kingdom,F,33.1,Monzo,1
+#2642 871,13-Oct-20,Tuesday,16,Visa,CVC,?230,Online,Gaming,United Kingdom,Russia,United Kingdom,M,44.8,Lloyds,0
+#2704 238,13-Oct-20,Tuesday,16,Visa,Tap,?28,POS,Products,India,India,India,M,42.1,Halifax,0
+#3067 865,13-Oct-20,Tuesday,15,Visa,CVC,?288,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,64.7,Lloyds,0
+#3594 411,13-Oct-20,Tuesday,15,MasterCard,PIN,?16,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,47.9,Barclays,0
+#3305 178,14-Oct-20,Wednesday,17,MasterCard,CVC,?288,Online,Gaming,United Kingdom,Russia,United Kingdom,M,43.4,Lloyds,0
+#3618 849,13-Oct-20,Tuesday,9,Visa,CVC,?398,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,56.2,Lloyds,0
+#3184 222,13-Oct-20,Tuesday,7,Visa,PIN,?221,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,46,Halifax,0
+#3486 579,14-Oct-20,Wednesday,10,MasterCard,PIN,?16,ATM,Electronics,Russia,Russia,Russia,F,46.6,Lloyds,0
+#2906 739,13-Oct-20,Tuesday,16,Visa,PIN,?25,ATM,Children,China,China,China,M,60.3,Lloyds,0
+#3522 589,13-Oct-20,Tuesday,16,MasterCard,CVC,?18,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,20.4,Lloyds,0
+#3643 591,13-Oct-20,Tuesday,11,Visa,CVC,?16,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,55.3,Halifax,0
+#2550 151,13-Oct-20,Tuesday,13,Visa,PIN,?19,ATM,,United Kingdom,United Kingdom,United Kingdom,F,52.9,Barclays,0
+#3513 515,13-Oct-20,Tuesday,11,MasterCard,CVC,?16,Online,Fashion,United Kingdom,USA,United Kingdom,M,63.4,Metro,1
+#3446 942,13-Oct-20,Tuesday,21,Visa,Tap,?22,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,38.4,Monzo,0
+#2635 329,13-Oct-20,Tuesday,20,Visa,PIN,?46,POS,Electronics,USA,USA,United Kingdom,M,66.4,HSBC,0
+#3635 132,14-Oct-20,Wednesday,8,MasterCard,PIN,?392,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,43.9,RBS,0
+#3667 721,14-Oct-20,Wednesday,7,Visa,Tap,?26,POS,Products,China,China,China,F,55.1,Lloyds,0
+#2673 402,14-Oct-20,Wednesday,23,Visa,PIN,?260,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,31,HSBC,0
+#3305 723,13-Oct-20,Tuesday,11,MasterCard,CVC,?30,Online,Entertainment,India,India,India,F,29.6,Metro,0
+#2675 621,14-Oct-20,Wednesday,8,Visa,PIN,?329,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,52.7,Barclays,0
+#3561 011,14-Oct-20,Wednesday,20,Visa,Tap,?9,POS,Gaming,United Kingdom,USA,United Kingdom,F,48.8,Monzo,0
+#2951 883,14-Oct-20,Wednesday,21,MasterCard,CVC,?6,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,47.1,Barlcays,0
+#3468 050,14-Oct-20,Wednesday,14,Visa,CVC,?359,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,24.9,Barclays,0
+#2972 170,13-Oct-20,Tuesday,18,Visa,PIN,?346,ATM,Children,USA,USA,United Kingdom,F,27,HSBC,0
+#2972 199,14-Oct-20,Wednesday,19,Visa,PIN,?5,ATM,Food,United Kingdom,USA,United Kingdom,M,42.4,Metro,0
+#2757 600,13-Oct-20,Tuesday,7,MasterCard,PIN,?14,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,38.9,Metro,0
+#2563 316,14-Oct-20,Wednesday,20,MasterCard,PIN,?16,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,37.8,Halifax,0
+#2968 502,14-Oct-20,Wednesday,8,Visa,CVC,?32,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,42.1,Metro,0
+#2686 254,13-Oct-20,Tuesday,20,Visa,CVC,?291,Online,Products,Russia,Russia,Russia,M,39.3,Barlcays,0
+#3125 516,13-Oct-20,Tuesday,9,MasterCard,CVC,?361,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,46.3,Metro,0
+#2648 923,14-Oct-20,Wednesday,17,MasterCard,PIN,?395,POS,Electronics,USA,USA,USA,M,45.2,Barclays,0
+#3570 398,13-Oct-20,Tuesday,18,MasterCard,CVC,?26,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,40.7,Monzo,0
+#3092 436,14-Oct-20,Wednesday,18,MasterCard,PIN,?169,ATM,Services,Russia,Russia,Russia,F,48.6,Barlcays,0
+#3303 897,13-Oct-20,Tuesday,13,Visa,PIN,?357,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,42.8,Lloyds,0
+#3293 336,13-Oct-20,Tuesday,6,Visa,CVC,?19,Online,Children,United Kingdom,USA,United Kingdom,M,41.6,Barclays,1
+#3375 673,13-Oct-20,Tuesday,7,Visa,CVC,?265,Online,Fashion,United Kingdom,China,United Kingdom,F,51.2,Monzo,0
+#3657 901,13-Oct-20,Tuesday,13,MasterCard,CVC,?279,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,61.1,RBS,0
+#3062 067,13-Oct-20,Tuesday,14,MasterCard,PIN,?25,ATM,Gaming,China,China,China,M,48,Barclays,0
+#3352 850,13-Oct-20,Tuesday,9,Visa,PIN,?17,ATM,Entertainment,United Kingdom,USA,United Kingdom,M,41.6,Barlcays,0
+#2882 392,13-Oct-20,Tuesday,12,Visa,PIN,?389,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,38.8,Monzo,0
+#3251 369,14-Oct-20,Wednesday,17,MasterCard,PIN,?85,POS,Products,United Kingdom,USA,United Kingdom,M,53.8,Barclays,0
+#2959 010,13-Oct-20,Tuesday,14,MasterCard,PIN,?32,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,47.7,Barclays,0
+#3502 695,13-Oct-20,Tuesday,8,Visa,CVC,?153,Online,Children,United Kingdom,China,United Kingdom,F,49.1,Barclays,0
+#3458 473,14-Oct-20,Wednesday,7,MasterCard,PIN,?74,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,64.9,Monzo,0
+#3393 955,13-Oct-20,Tuesday,17,Visa,PIN,?228,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47.6,Lloyds,0
+#3207 473,13-Oct-20,Tuesday,15,Visa,CVC,?185,Online,Entertainment,USA,USA,USA,F,41.6,Barclays,0
+#3369 602,14-Oct-20,Wednesday,11,Visa,Tap,?17,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,40.9,Barclays,0
+#3139 043,13-Oct-20,Tuesday,8,Visa,PIN,?131,POS,Children,United Kingdom,China,United Kingdom,F,40.8,RBS,0
+#2602 106,13-Oct-20,Tuesday,10,Visa,CVC,?366,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,41.7,Monzo,0
+#3456 271,14-Oct-20,Wednesday,21,MasterCard,Tap,?9,POS,Children,United Kingdom,China,United Kingdom,M,66.9,Barlcays,1
+#3031 665,13-Oct-20,Tuesday,11,Visa,PIN,?26,ATM,Fashion,United Kingdom,Russia,United Kingdom,M,42.8,HSBC,0
+#3144 796,14-Oct-20,Wednesday,11,Visa,PIN,?23,POS,Products,China,China,China,M,42.4,Lloyds,0
+#2710 286,14-Oct-20,Wednesday,21,MasterCard,PIN,?18,ATM,Restaurant,United Kingdom,Russia,United Kingdom,F,36.4,Metro,0
+#3143 248,13-Oct-20,Tuesday,15,Visa,CVC,?100,Online,Subscription,Russia,Russia,Russia,F,51.8,Halifax,0
+#2670 031,14-Oct-20,Wednesday,23,MasterCard,PIN,?325,POS,Services,United Kingdom,India,United Kingdom,F,53.5,RBS,0
+#3116 875,14-Oct-20,Wednesday,20,Visa,PIN,?138,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,52.1,Metro,0
+#3321 338,14-Oct-20,Wednesday,6,Visa,CVC,?10,Online,Fashion,China,China,United Kingdom,M,27.9,Halifax,1
+#3290 993,14-Oct-20,Wednesday,19,Visa,PIN,?18,ATM,Electronics,China,China,China,F,47.2,Barlcays,0
+#3279 684,14-Oct-20,Wednesday,11,Visa,PIN,?7,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,53.1,Monzo,0
+#2746 707,13-Oct-20,Tuesday,8,Visa,Tap,?30,POS,Subscription,China,China,United Kingdom,M,55.3,Halifax,0
+#3211 156,14-Oct-20,Wednesday,14,MasterCard,PIN,?10,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,57.9,RBS,0
+#2829 850,13-Oct-20,Tuesday,11,Visa,Tap,?14,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,41.2,Monzo,0
+#2783 808,13-Oct-20,Tuesday,17,Visa,PIN,?347,POS,Food,USA,USA,USA,M,53.4,Barclays,0
+#2925 084,13-Oct-20,Tuesday,12,Visa,Tap,?6,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,29.9,Barclays,0
+#2796 080,13-Oct-20,Tuesday,21,MasterCard,CVC,?394,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,41.2,Barlcays,0
+#2789 948,13-Oct-20,Tuesday,20,MasterCard,Tap,?10,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,48.7,Barclays,0
+#3516 131,14-Oct-20,Wednesday,7,Visa,Tap,?6,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,21.9,Barlcays,0
+#2821 542,14-Oct-20,Wednesday,13,MasterCard,CVC,?341,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,38.9,HSBC,0
+#3359 711,14-Oct-20,Wednesday,20,MasterCard,PIN,?192,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,30.7,Lloyds,0
+#3012 265,13-Oct-20,Tuesday,16,MasterCard,Tap,?9,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,45.6,Barclays,0
+#3576 511,14-Oct-20,Wednesday,11,MasterCard,PIN,?29,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,57.2,Halifax,0
+#2979 417,13-Oct-20,Tuesday,20,MasterCard,PIN,?352,POS,Products,United Kingdom,Russia,United Kingdom,M,30.5,HSBC,0
+#3104 969,14-Oct-20,Wednesday,7,Visa,Tap,?9,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,41.2,Monzo,0
+#3454 091,14-Oct-20,Wednesday,18,Visa,PIN,?175,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,39.6,Halifax,0
+#3649 996,13-Oct-20,Tuesday,19,Visa,Tap,?28,POS,Restaurant,Russia,Russia,United Kingdom,M,34.1,Barlcays,1
+#3420 189,14-Oct-20,Wednesday,17,Visa,Tap,?11,POS,Entertainment,United Kingdom,China,United Kingdom,F,43.1,Halifax,0
+#2834 397,14-Oct-20,Wednesday,7,Visa,PIN,?24,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,36.5,Monzo,0
+#3231 960,13-Oct-20,Tuesday,16,MasterCard,CVC,?29,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,38.2,Halifax,0
+#2752 303,14-Oct-20,Wednesday,5,Visa,PIN,?16,ATM,Subscription,India,India,United Kingdom,M,45,Halifax,1
+#3212 046,14-Oct-20,Wednesday,16,Visa,Tap,?10,POS,Entertainment,India,India,India,F,32.2,Metro,0
+#3063 953,13-Oct-20,Tuesday,22,MasterCard,PIN,?29,ATM,Electronics,China,China,China,F,55,Barclays,0
+#3358 822,13-Oct-20,Tuesday,9,Visa,CVC,?14,Online,Food,United Kingdom,Russia,United Kingdom,M,40.5,HSBC,0
+#2741 522,13-Oct-20,Tuesday,7,MasterCard,Tap,?7,POS,Children,United Kingdom,Russia,United Kingdom,F,57.5,Barclays,0
+#2765 658,13-Oct-20,Tuesday,8,Visa,CVC,?60,Online,Electronics,China,China,China,M,38,Barclays,0
+#3620 798,13-Oct-20,Tuesday,13,Visa,Tap,?11,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,29.6,Metro,0
+#3205 057,14-Oct-20,Wednesday,23,Visa,PIN,?42,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,53.9,Lloyds,0
+#3366 503,14-Oct-20,Wednesday,18,MasterCard,CVC,?368,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,42.6,Lloyds,0
+#2683 796,14-Oct-20,Wednesday,11,Visa,PIN,?207,ATM,Restaurant,China,China,United Kingdom,M,51.5,Barclays,0
+#2775 687,13-Oct-20,Tuesday,22,MasterCard,Tap,?12,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,36.8,Halifax,0
+#3237 514,14-Oct-20,Wednesday,15,MasterCard,PIN,?336,ATM,Subscription,China,China,China,M,27.1,Lloyds,0
+#2686 287,14-Oct-20,Wednesday,6,Visa,PIN,?27,ATM,Services,Russia,Russia,United Kingdom,M,41.9,Monzo,1
+#2789 755,13-Oct-20,Tuesday,19,Visa,CVC,?77,Online,Electronics,United Kingdom,China,United Kingdom,M,49.1,Metro,0
+#2771 534,13-Oct-20,Tuesday,14,Visa,PIN,?388,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,47.6,Lloyds,0
+#2592 049,14-Oct-20,Wednesday,18,MasterCard,CVC,?14,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,53.5,RBS,0
+#3668 437,13-Oct-20,Tuesday,7,Visa,PIN,?26,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,50.1,Barclays,0
+#3495 306,13-Oct-20,Tuesday,23,Visa,Tap,?26,POS,Food,United Kingdom,India,United Kingdom,M,52.3,Metro,0
+#3164 555,14-Oct-20,Wednesday,17,Visa,PIN,?380,ATM,Fashion,Russia,Russia,United Kingdom,F,47.9,Monzo,0
+#2572 790,13-Oct-20,Tuesday,22,Visa,CVC,?29,Online,Children,India,India,India,M,41.5,Halifax,0
+#2888 366,14-Oct-20,Wednesday,10,Visa,CVC,?12,Online,Electronics,United Kingdom,India,United Kingdom,F,42,Lloyds,0
+#3008 067,14-Oct-20,Wednesday,8,Visa,CVC,?250,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,51.3,Monzo,0
+#3527 735,13-Oct-20,Tuesday,23,Visa,PIN,?9,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,38,RBS,0
+#2613 567,13-Oct-20,Tuesday,18,Visa,CVC,?252,Online,Children,Russia,Russia,Russia,M,34.7,HSBC,0
+#3081 375,13-Oct-20,Tuesday,7,MasterCard,PIN,?160,ATM,Gaming,Russia,Russia,United Kingdom,F,34.5,Lloyds,0
+#3550 209,14-Oct-20,Wednesday,14,MasterCard,PIN,?8,ATM,Children,USA,USA,USA,F,19.2,Barlcays,0
+#2651 825,14-Oct-20,Wednesday,12,Visa,CVC,?18,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,41.8,Lloyds,0
+#3220 441,13-Oct-20,Tuesday,13,MasterCard,CVC,?19,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,34.6,HSBC,0
+#2773 724,14-Oct-20,Wednesday,18,MasterCard,CVC,?35,Online,Electronics,China,United Kingdom,China,F,35.5,Halifax,0
+#3471 840,13-Oct-20,Tuesday,22,MasterCard,PIN,?6,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,27.1,Barclays,0
+#2550 715,14-Oct-20,Wednesday,15,Visa,PIN,?243,ATM,Products,Russia,Russia,Russia,,41,Barclays,0
+#3208 483,14-Oct-20,Wednesday,21,MasterCard,PIN,?13,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,39.6,Lloyds,0
+#2981 316,13-Oct-20,Tuesday,18,MasterCard,PIN,?342,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,33.9,HSBC,0
+#3568 295,13-Oct-20,Tuesday,15,Visa,PIN,?22,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,47.9,Halifax,0
+#2833 001,14-Oct-20,Wednesday,23,MasterCard,Tap,?30,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,50.4,Barclays,0
+#2617 004,14-Oct-20,Wednesday,12,MasterCard,PIN,?392,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,38.9,Barclays,0
+#3091 224,13-Oct-20,Tuesday,13,Visa,CVC,?14,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,39.5,Barclays,0
+#3604 688,14-Oct-20,Wednesday,9,MasterCard,CVC,?302,Online,Fashion,China,China,China,M,55.5,RBS,0
+#2933 108,14-Oct-20,Wednesday,11,Visa,PIN,?11,ATM,Gaming,United Kingdom,USA,United Kingdom,F,54.8,Barclays,0
+#3086 756,14-Oct-20,Wednesday,17,Visa,CVC,?10,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,36.9,Barclays,0
+#3377 329,14-Oct-20,Wednesday,10,Visa,Tap,?7,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,46,Monzo,0
+#3198 871,14-Oct-20,Wednesday,8,Visa,CVC,?7,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,57.5,Metro,0
+#2911 685,13-Oct-20,Tuesday,22,Visa,PIN,?7,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,42,Monzo,0
+#3197 718,14-Oct-20,Wednesday,21,Visa,PIN,?113,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,31.2,Barclays,0
+#3269 252,14-Oct-20,Wednesday,18,Visa,PIN,?20,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,39.6,Barclays,0
+#2967 128,14-Oct-20,Wednesday,15,MasterCard,PIN,?322,POS,Products,USA,USA,United Kingdom,M,62.3,Barlcays,1
+#3212 812,13-Oct-20,Tuesday,15,MasterCard,PIN,?30,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,29.5,Barclays,0
+#2642 823,13-Oct-20,Tuesday,4,Visa,CVC,?13,Online,Restaurant,Russia,Russia,United Kingdom,F,69.9,Halifax,1
+#3025 413,13-Oct-20,Tuesday,10,Visa,PIN,?30,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,46.2,Monzo,0
+#2999 407,13-Oct-20,Tuesday,22,MasterCard,CVC,?212,Online,Services,China,China,China,F,35.6,Metro,0
+#2957 999,14-Oct-20,Wednesday,18,Visa,Tap,?10,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,39.4,Halifax,0
+#2812 874,14-Oct-20,Wednesday,23,Visa,PIN,?7,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,59.2,Monzo,0
+#3262 923,14-Oct-20,Wednesday,17,MasterCard,PIN,?22,ATM,Services,India,India,India,F,57.6,Metro,0
+#3147 212,14-Oct-20,Wednesday,8,MasterCard,PIN,?191,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,45,HSBC,0
+#2785 894,13-Oct-20,Tuesday,3,Visa,PIN,?13,ATM,Children,Russia,Russia,United Kingdom,M,45.2,Metro,1
+#3094 777,13-Oct-20,Tuesday,21,Visa,CVC,?6,Online,Products,India,India,India,F,59.1,Monzo,0
+#3555 374,14-Oct-20,Wednesday,16,Visa,CVC,?29,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,57.9,HSBC,0
+#2827 723,13-Oct-20,Tuesday,21,Visa,PIN,?380,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,50.2,Monzo,0
+#3167 837,13-Oct-20,Tuesday,14,MasterCard,CVC,?398,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,35.2,RBS,0
+#3574 632,14-Oct-20,Wednesday,20,Visa,Tap,?5,POS,Fashion,United Kingdom,India,United Kingdom,M,52.7,HSBC,0
+#3081 800,13-Oct-20,Tuesday,22,Visa,PIN,?230,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,39.1,Barclays,0
+#3229 670,14-Oct-20,Wednesday,9,Visa,PIN,?381,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,40.1,Barclays,0
+#3099 365,13-Oct-20,Tuesday,8,MasterCard,PIN,?7,ATM,Fashion,Russia,Russia,Russia,M,42.2,Monzo,0
+#3326 698,13-Oct-20,Tuesday,11,MasterCard,Tap,?22,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,50.5,Barclays,0
+#2866 604,14-Oct-20,Wednesday,18,Visa,PIN,?132,POS,Restaurant,Russia,Russia,Russia,F,34.6,Metro,0
+#2966 757,13-Oct-20,Tuesday,9,MasterCard,PIN,?168,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,52.4,Barclays,0
+#2659 545,13-Oct-20,Tuesday,23,MasterCard,PIN,?92,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,46.1,Halifax,0
+#2733 373,14-Oct-20,Wednesday,12,Visa,PIN,?25,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,60.5,Lloyds,0
+#3206 250,13-Oct-20,Tuesday,11,Visa,CVC,?16,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,F,38.9,HSBC,0
+#2818 759,13-Oct-20,Tuesday,19,MasterCard,CVC,?84,Online,Restaurant,India,India,United Kingdom,F,41.3,Barlcays,0
+#2820 585,13-Oct-20,Tuesday,19,Visa,CVC,?6,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,45,Metro,0
+#2600 996,13-Oct-20,Tuesday,6,MasterCard,PIN,?21,ATM,Food,Russia,Russia,United Kingdom,M,47.2,Monzo,1
+#3211 212,14-Oct-20,Wednesday,22,Visa,PIN,?77,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,59.7,Barclays,0
+#2765 419,13-Oct-20,Tuesday,16,MasterCard,PIN,?102,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,46.8,Barclays,0
+#3293 178,14-Oct-20,Wednesday,23,Visa,Tap,?22,POS,Children,United Kingdom,USA,United Kingdom,F,30.9,Metro,0
+#3463 901,13-Oct-20,Tuesday,2,Visa,PIN,?14,ATM,Services,India,India,United Kingdom,M,57.5,Barlcays,1
+#2873 737,14-Oct-20,Wednesday,17,MasterCard,PIN,?372,POS,Electronics,United Kingdom,Russia,United Kingdom,M,32.6,Barclays,0
+#3333 526,14-Oct-20,Wednesday,20,Visa,CVC,?126,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,57.5,Barclays,0
+#3535 591,13-Oct-20,Tuesday,12,MasterCard,Tap,?23,POS,Electronics,United Kingdom,USA,United Kingdom,F,41.5,Monzo,0
+#3336 758,14-Oct-20,Wednesday,18,Visa,PIN,?14,ATM,Products,United Kingdom,United Kingdom,United Kingdom,F,35,Monzo,0
+#3236 069,14-Oct-20,Wednesday,11,MasterCard,PIN,?27,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,38.1,Lloyds,0
+#3102 377,13-Oct-20,Tuesday,8,Visa,PIN,?6,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,51,RBS,0
+#3637 511,13-Oct-20,Tuesday,18,MasterCard,Tap,?9,POS,Food,United Kingdom,USA,United Kingdom,F,49.2,Barclays,0
+#2814 155,14-Oct-20,Wednesday,14,MasterCard,PIN,?46,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,42.3,Barclays,0
+#3300 285,14-Oct-20,Wednesday,11,MasterCard,PIN,?40,POS,Products,China,China,China,F,47.4,Barclays,0
+#3200 641,14-Oct-20,Wednesday,12,MasterCard,PIN,?41,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,54.7,Metro,0
+#3584 823,13-Oct-20,Tuesday,14,Visa,PIN,?207,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,47.6,Barclays,0
+#3322 882,14-Oct-20,Wednesday,17,MasterCard,CVC,?260,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,47.7,HSBC,0
+#3126 933,13-Oct-20,Tuesday,17,Visa,CVC,?10,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,44,Barlcays,0
+#2964 653,13-Oct-20,Tuesday,17,MasterCard,PIN,?178,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,52,Monzo,0
+#3067 312,13-Oct-20,Tuesday,7,Visa,PIN,?9,ATM,Gaming,China,China,China,M,54.6,Barclays,0
+#3676 199,14-Oct-20,Wednesday,20,Visa,CVC,?190,Online,Children,China,China,China,M,52.3,Halifax,0
+#2936 409,13-Oct-20,Tuesday,11,MasterCard,PIN,?27,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,50,Barclays,0
+#3557 642,14-Oct-20,Wednesday,9,Visa,PIN,?119,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,50.1,HSBC,0
+#2940 492,13-Oct-20,Tuesday,17,MasterCard,PIN,?17,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,35.3,Barclays,0
+#3314 141,14-Oct-20,Wednesday,11,MasterCard,Tap,?18,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,57,Metro,0
+#3482 403,13-Oct-20,Tuesday,9,MasterCard,PIN,?239,POS,Children,China,China,United Kingdom,M,48.7,Halifax,1
+#3215 717,13-Oct-20,Tuesday,19,MasterCard,Tap,?26,POS,Children,United Kingdom,USA,United Kingdom,F,35.1,Barclays,0
+#3078 068,13-Oct-20,Tuesday,5,Visa,CVC,?24,Online,Fashion,Russia,Russia,United Kingdom,M,54.8,Barclays,1
+#3511 949,13-Oct-20,Tuesday,22,MasterCard,CVC,?23,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,60.5,Barclays,0
+#2564 181,14-Oct-20,Wednesday,22,Visa,PIN,?202,ATM,Fashion,China,China,China,M,41.8,Halifax,0
+#3328 477,14-Oct-20,Wednesday,18,Visa,CVC,?8,Online,Gaming,China,China,China,M,49.6,Lloyds,0
+#2592 182,14-Oct-20,Wednesday,17,MasterCard,CVC,?16,Online,Electronics,USA,USA,USA,F,36.9,Barclays,0
+#2704 865,13-Oct-20,Tuesday,18,Visa,PIN,?7,ATM,Food,United Kingdom,Russia,United Kingdom,F,46,HSBC,0
+#3037 448,14-Oct-20,Wednesday,10,MasterCard,Tap,?22,POS,Gaming,India,India,India,M,52.5,Halifax,0
+#3582 789,13-Oct-20,Tuesday,7,MasterCard,CVC,?8,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,31.5,RBS,0
+#3133 521,13-Oct-20,Tuesday,19,MasterCard,CVC,?97,Online,Entertainment,China,China,China,M,43.2,Monzo,0
+#2844 871,13-Oct-20,Tuesday,20,Visa,PIN,?17,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,43.4,Barclays,0
+#3604 539,13-Oct-20,Tuesday,8,Visa,PIN,?248,ATM,Products,United Kingdom,United Kingdom,United Kingdom,F,36.2,Barlcays,0
+#3239 468,13-Oct-20,Tuesday,7,Visa,Tap,?11,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,36.5,Barclays,0
+#3645 198,14-Oct-20,Wednesday,23,Visa,Tap,?22,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,51.4,RBS,0
+#2836 889,13-Oct-20,Tuesday,7,Visa,CVC,?371,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,F,50.4,RBS,0
+#2934 244,14-Oct-20,Wednesday,19,MasterCard,PIN,?46,POS,Services,Russia,Russia,Russia,F,52.2,Barclays,0
+#2651 353,14-Oct-20,Wednesday,11,Visa,PIN,?27,ATM,Restaurant,United Kingdom,Russia,United Kingdom,F,48.9,Monzo,0
+#3515 001,13-Oct-20,Tuesday,8,Visa,Tap,?27,POS,Gaming,China,China,China,F,41.7,HSBC,0
+#3062 614,14-Oct-20,Wednesday,11,Visa,CVC,?17,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,35.9,Halifax,0
+#2749 238,14-Oct-20,Wednesday,17,MasterCard,CVC,?23,Online,Entertainment,India,India,India,M,31,HSBC,0
+#3057 256,13-Oct-20,Tuesday,16,Visa,PIN,?25,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,45.9,Barclays,0
+#3245 740,13-Oct-20,Tuesday,23,Visa,PIN,?11,ATM,Restaurant,China,China,China,M,50.8,Barlcays,0
+#2815 805,13-Oct-20,Tuesday,15,Visa,Tap,?30,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,61.2,Monzo,0
+#3646 137,13-Oct-20,Tuesday,13,Visa,CVC,?17,Online,Subscription,USA,USA,USA,M,15,RBS,0
+#2897 247,13-Oct-20,Tuesday,19,MasterCard,Tap,?18,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,52.4,Metro,0
+#2558 948,14-Oct-20,Wednesday,14,MasterCard,CVC,?346,Online,Gaming,USA,USA,USA,M,52.5,Monzo,0
+#3570 706,13-Oct-20,Tuesday,13,Visa,CVC,?296,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,30.9,Barlcays,0
+#3568 750,13-Oct-20,Tuesday,21,MasterCard,PIN,?367,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,62.4,Barlcays,0
+#3583 257,14-Oct-20,Wednesday,23,MasterCard,Tap,?5,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,45.7,Lloyds,0
+#2591 513,14-Oct-20,Wednesday,15,MasterCard,PIN,?18,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,74.1,Barclays,0
+#3408 648,13-Oct-20,Tuesday,21,Visa,Tap,?15,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,34.6,HSBC,0
+#2580 277,14-Oct-20,Wednesday,14,Visa,PIN,?215,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,42.5,Halifax,0
+#2751 353,13-Oct-20,Tuesday,12,Visa,PIN,?211,POS,Entertainment,Russia,Russia,United Kingdom,F,26.2,Barclays,0
+#2917 505,14-Oct-20,Wednesday,12,Visa,CVC,?123,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,F,39.6,Barclays,0
+#2839 167,14-Oct-20,Wednesday,12,Visa,PIN,?231,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,46,Barclays,0
+#3458 884,14-Oct-20,Wednesday,21,MasterCard,CVC,?29,Online,Electronics,India,India,United Kingdom,M,55.9,Monzo,1
+#2979 038,14-Oct-20,Wednesday,15,MasterCard,PIN,?141,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,38,Metro,0
+#2867 969,13-Oct-20,Tuesday,17,Visa,PIN,?188,POS,Subscription,USA,USA,United Kingdom,M,52,Metro,0
+#2901 414,14-Oct-20,Wednesday,16,Visa,PIN,?17,ATM,Products,Russia,Russia,United Kingdom,F,48,Barclays,0
+#3524 550,14-Oct-20,Wednesday,14,Visa,PIN,?24,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,38.8,Metro,0
+#2921 553,14-Oct-20,Wednesday,21,Visa,Tap,?18,POS,Fashion,Russia,Russia,Russia,F,57.9,Lloyds,0
+#3103 495,13-Oct-20,Tuesday,23,Visa,PIN,?13,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,39.6,HSBC,0
+#3272 092,14-Oct-20,Wednesday,17,MasterCard,PIN,?52,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,51.2,RBS,0
+#2593 080,14-Oct-20,Wednesday,21,Visa,PIN,?301,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,41.2,Barclays,0
+#3570 391,13-Oct-20,Tuesday,11,Visa,CVC,?237,Online,Restaurant,United Kingdom,Russia,United Kingdom,M,58,Barlcays,0
+#3158 970,13-Oct-20,Tuesday,8,Visa,PIN,?151,POS,Products,United Kingdom,Russia,United Kingdom,M,55.1,Barclays,0
+#3053 276,14-Oct-20,Wednesday,23,MasterCard,PIN,?80,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,48.6,Barlcays,0
+#3493 538,14-Oct-20,Wednesday,14,MasterCard,Tap,?8,POS,Products,United Kingdom,USA,United Kingdom,M,44.9,Metro,1
+#3161 211,13-Oct-20,Tuesday,7,MasterCard,PIN,?117,ATM,Products,India,India,United Kingdom,M,49.6,HSBC,0
+#3141 953,13-Oct-20,Tuesday,19,Visa,CVC,?29,Online,Products,India,India,United Kingdom,M,35.8,Halifax,1
+#3163 966,14-Oct-20,Wednesday,12,Visa,PIN,?29,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,36.8,Monzo,0
+#3233 067,13-Oct-20,Tuesday,16,Visa,Tap,?20,POS,Gaming,China,China,United Kingdom,F,57.2,RBS,1
+#3011 072,14-Oct-20,Wednesday,9,Visa,CVC,?347,Online,Subscription,United Kingdom,China,United Kingdom,M,49.3,Barclays,0
+#3619 767,14-Oct-20,Wednesday,11,Visa,CVC,?192,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,47.2,Halifax,0
+#3601 028,13-Oct-20,Tuesday,23,Visa,CVC,?372,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,36.8,Monzo,0
+#3390 385,13-Oct-20,Tuesday,11,Visa,CVC,?30,Online,Electronics,USA,USA,USA,F,37.7,Barlcays,0
+#3574 073,14-Oct-20,Wednesday,14,Visa,PIN,?28,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,45.8,Halifax,0
+#3633 190,14-Oct-20,Wednesday,22,Visa,PIN,?147,ATM,Gaming,India,India,United Kingdom,F,53.9,Monzo,0
+#3099 439,13-Oct-20,Tuesday,22,MasterCard,PIN,?15,POS,Food,United Kingdom,United Kingdom,United Kingdom,F,33.8,Barlcays,0
+#2760 360,14-Oct-20,Wednesday,5,Visa,CVC,?24,Online,Services,China,China,United Kingdom,F,40.1,Barlcays,1
+#3258 690,14-Oct-20,Wednesday,10,Visa,PIN,?24,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,38.9,Metro,0
+#2866 606,13-Oct-20,Tuesday,13,MasterCard,PIN,?27,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,61.7,Barlcays,0
+#3370 895,13-Oct-20,Tuesday,15,MasterCard,PIN,?138,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,53.3,Barclays,0
+#3092 903,14-Oct-20,Wednesday,18,Visa,CVC,?212,Online,Electronics,India,India,India,F,55.7,Barlcays,0
+#2563 794,13-Oct-20,Tuesday,12,Visa,PIN,?134,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,52.9,Monzo,0
+#3280 154,14-Oct-20,Wednesday,17,Visa,PIN,?26,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,42.9,Barclays,0
+#3406 596,13-Oct-20,Tuesday,7,Visa,CVC,?107,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,59.5,Metro,0
+#2969 432,13-Oct-20,Tuesday,15,Visa,CVC,?92,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,39.5,Monzo,0
+#3084 949,14-Oct-20,Wednesday,10,Visa,PIN,?19,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,47.8,Metro,0
+#3396 288,13-Oct-20,Tuesday,16,Visa,CVC,?19,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,37.1,Barclays,0
+#3398 436,14-Oct-20,Wednesday,16,MasterCard,PIN,?7,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,25.6,Lloyds,0
+#3091 130,14-Oct-20,Wednesday,7,MasterCard,PIN,?139,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,58.5,Barclays,0
+#3270 799,13-Oct-20,Tuesday,19,Visa,CVC,?25,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,64.3,Metro,0
+#3411 900,14-Oct-20,Wednesday,18,Visa,PIN,?14,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,56.4,Barclays,0
+#2970 252,13-Oct-20,Tuesday,8,MasterCard,CVC,?27,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,31.4,HSBC,0
+#2805 331,13-Oct-20,Tuesday,22,Visa,Tap,?25,POS,Fashion,USA,USA,USA,F,36.1,Barclays,0
+#3020 230,14-Oct-20,Wednesday,18,Visa,PIN,?13,ATM,Subscription,China,China,China,F,55.7,HSBC,0
+#2755 913,14-Oct-20,Wednesday,19,MasterCard,PIN,?283,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,28.9,Barclays,0
+#2597 264,13-Oct-20,Tuesday,14,MasterCard,CVC,?137,Online,Restaurant,China,China,China,M,41.1,Barlcays,0
+#2650 353,13-Oct-20,Tuesday,7,MasterCard,PIN,?45,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,36.2,Monzo,0
+#3086 904,13-Oct-20,Tuesday,15,Visa,Tap,?6,POS,Entertainment,United Kingdom,Russia,United Kingdom,F,62.1,Metro,0
+#3471 039,14-Oct-20,Wednesday,11,MasterCard,PIN,?280,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,61.9,Monzo,0
+#2743 176,13-Oct-20,Tuesday,17,Visa,PIN,?138,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,30.7,RBS,0
+#2732 623,14-Oct-20,Wednesday,10,Visa,Tap,?26,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,40,Lloyds,0
+#3249 862,14-Oct-20,Wednesday,1,MasterCard,CVC,?21,Online,Entertainment,India,India,United Kingdom,F,51.5,RBS,1
+#3319 804,13-Oct-20,Tuesday,18,MasterCard,PIN,?21,ATM,Services,India,India,India,F,35.7,Halifax,0
+#2959 293,13-Oct-20,Tuesday,17,MasterCard,CVC,?20,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,35.8,Halifax,0
+#2553 556,14-Oct-20,Wednesday,23,Visa,Tap,?9,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,47.2,Barlcays,0
+#3321 906,14-Oct-20,Wednesday,12,MasterCard,CVC,?386,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,48.4,Barclays,0
+#3278 947,14-Oct-20,Wednesday,23,MasterCard,Tap,?6,POS,Subscription,China,China,China,F,33.6,RBS,0
+#2632 161,14-Oct-20,Wednesday,8,MasterCard,CVC,?7,Online,Food,Russia,Russia,Russia,F,43.7,Lloyds,0
+#3348 531,14-Oct-20,Wednesday,8,Visa,CVC,?26,Online,Restaurant,India,India,India,M,51.4,RBS,0
+#2821 538,14-Oct-20,Wednesday,17,MasterCard,PIN,?5,ATM,Gaming,USA,USA,USA,M,54.4,Metro,0
+#3156 352,14-Oct-20,Wednesday,18,MasterCard,PIN,?264,ATM,Entertainment,China,China,United Kingdom,M,47.7,Monzo,0
+#3478 193,13-Oct-20,Tuesday,23,Visa,PIN,?137,ATM,Entertainment,USA,United Kingdom,USA,F,31.8,Barclays,0
+#3185 724,13-Oct-20,Tuesday,12,MasterCard,PIN,?93,POS,Entertainment,Russia,Russia,Russia,F,65.3,Barlcays,0
+#3607 831,13-Oct-20,Tuesday,13,Visa,Tap,?10,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,30.8,Metro,0
+#3227 163,13-Oct-20,Tuesday,19,Visa,Tap,?18,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,35.1,RBS,0
+#3135 200,13-Oct-20,Tuesday,19,MasterCard,CVC,?17,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,47.8,Halifax,0
+#3583 110,14-Oct-20,Wednesday,9,Visa,PIN,?20,ATM,Subscription,USA,USA,USA,M,59.7,HSBC,0
+#3686 499,14-Oct-20,Wednesday,12,MasterCard,PIN,?361,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47.8,Halifax,0
+#2848 519,13-Oct-20,Tuesday,22,Visa,PIN,?348,ATM,Entertainment,China,China,United Kingdom,F,49.3,Halifax,0
+#3396 480,14-Oct-20,Wednesday,19,Visa,CVC,?11,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,47.3,Barclays,0
+#2899 984,13-Oct-20,Tuesday,10,Visa,PIN,?27,ATM,Electronics,China,China,China,F,47.8,Barclays,0
+#3367 532,14-Oct-20,Wednesday,8,Visa,PIN,?364,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,36.1,Barclays,0
+#3082 329,14-Oct-20,Wednesday,13,Visa,CVC,?20,Online,Restaurant,United Kingdom,USA,United Kingdom,M,39.8,RBS,0
+#3064 153,13-Oct-20,Tuesday,0,Visa,Tap,?12,POS,Food,USA,USA,United Kingdom,M,39,HSBC,1
+#2895 544,14-Oct-20,Wednesday,17,MasterCard,CVC,?28,Online,Services,China,China,China,M,53.1,HSBC,0
+#3541 073,13-Oct-20,Tuesday,16,Visa,PIN,?46,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,25,HSBC,0
+#2903 691,14-Oct-20,Wednesday,8,Visa,Tap,?20,POS,Restaurant,USA,USA,USA,M,52.7,HSBC,0
+#3371 716,13-Oct-20,Tuesday,13,MasterCard,CVC,?8,Online,Products,United Kingdom,United Kingdom,United Kingdom,M,40.8,RBS,0
+#3321 466,13-Oct-20,Tuesday,10,Visa,PIN,?369,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47.8,HSBC,0
+#3208 675,13-Oct-20,Tuesday,9,Visa,PIN,?383,ATM,Gaming,USA,USA,USA,M,42.5,Barclays,0
+#3023 654,13-Oct-20,Tuesday,14,Visa,PIN,?5,ATM,Services,India,India,India,F,43.3,Monzo,0
+#2959 119,14-Oct-20,Wednesday,18,MasterCard,PIN,?5,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,46.8,Monzo,0
+#2988 134,13-Oct-20,Tuesday,22,MasterCard,CVC,?270,Online,Services,Russia,Russia,Russia,F,48.4,Barlcays,0
+#2578 362,13-Oct-20,Tuesday,12,MasterCard,Tap,?5,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,32.4,Barclays,0
+#3354 029,13-Oct-20,Tuesday,18,MasterCard,CVC,?5,Online,Restaurant,United Kingdom,Russia,United Kingdom,F,27.4,Lloyds,0
+#3124 654,14-Oct-20,Wednesday,9,Visa,Tap,?6,POS,Products,China,China,China,M,33.2,Barclays,0
+#3480 612,14-Oct-20,Wednesday,13,Visa,PIN,?10,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,52.8,Metro,0
+#2975 215,14-Oct-20,Wednesday,18,MasterCard,CVC,?44,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,M,34,Halifax,0
+#3676 700,14-Oct-20,Wednesday,16,Visa,PIN,?13,ATM,Gaming,India,India,India,F,57.2,Lloyds,0
+#2760 991,14-Oct-20,Wednesday,23,MasterCard,PIN,?279,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,43.1,Metro,0
+#3642 044,14-Oct-20,Wednesday,10,Visa,Tap,?19,POS,Children,Russia,Russia,Russia,F,48.6,HSBC,0
+#2657 695,14-Oct-20,Wednesday,14,Visa,CVC,?43,Online,Food,United Kingdom,Russia,United Kingdom,F,31,Barclays,0
+#3213 365,13-Oct-20,Tuesday,17,MasterCard,Tap,?16,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,52.1,HSBC,0
+#3248 724,14-Oct-20,Wednesday,8,MasterCard,PIN,?177,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,30,Monzo,0
+#3363 220,13-Oct-20,Tuesday,7,MasterCard,PIN,?67,ATM,Subscription,China,China,China,F,34.4,Monzo,0
+#2644 199,13-Oct-20,Tuesday,22,Visa,CVC,?13,Online,Fashion,United Kingdom,China,United Kingdom,M,46.4,Barclays,1
+#2824 743,14-Oct-20,Wednesday,21,MasterCard,PIN,?30,ATM,Fashion,India,India,India,M,57.7,Barlcays,0
+#2590 878,14-Oct-20,Wednesday,8,MasterCard,PIN,?267,POS,Entertainment,USA,USA,USA,M,48.2,Barclays,0
+#2710 050,14-Oct-20,Wednesday,12,Visa,CVC,?6,Online,Products,United Kingdom,United Kingdom,United Kingdom,M,47.6,Barclays,0
+#2985 578,14-Oct-20,Wednesday,15,Visa,CVC,?13,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,54.8,RBS,0
+#3652 910,14-Oct-20,Wednesday,22,Visa,PIN,?8,ATM,Subscription,United Kingdom,USA,United Kingdom,F,36.6,RBS,0
+#3195 812,14-Oct-20,Wednesday,12,MasterCard,PIN,?169,POS,Gaming,Russia,Russia,United Kingdom,F,29.3,Monzo,0
+#3416 538,13-Oct-20,Tuesday,13,Visa,CVC,?71,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,56.7,RBS,0
+#2725 110,14-Oct-20,Wednesday,15,Visa,Tap,?11,POS,Children,China,China,United Kingdom,F,48.6,Barclays,1
+#3242 019,13-Oct-20,Tuesday,7,Visa,CVC,?53,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,53.6,Barclays,0
+#2661 873,13-Oct-20,Tuesday,21,MasterCard,PIN,?19,ATM,Entertainment,USA,USA,USA,M,47.6,Monzo,0
+#3585 718,13-Oct-20,Tuesday,20,MasterCard,Tap,?11,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,50.5,Barclays,0
+#3564 721,14-Oct-20,Wednesday,15,MasterCard,Tap,?27,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,56.3,Halifax,0
+#3545 689,13-Oct-20,Tuesday,10,MasterCard,PIN,?14,ATM,Restaurant,China,China,United Kingdom,M,23.4,HSBC,0
+#2894 863,14-Oct-20,Wednesday,18,Visa,Tap,?21,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,33.3,Barclays,0
+#3417 999,14-Oct-20,Wednesday,11,Visa,Tap,?18,POS,Restaurant,China,China,China,F,34,Metro,0
+#3437 919,14-Oct-20,Wednesday,20,Visa,Tap,?17,POS,Gaming,USA,USA,USA,F,39,Monzo,0
+#3495 487,14-Oct-20,Wednesday,11,Visa,PIN,?245,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,29.4,HSBC,0
+#2978 942,13-Oct-20,Tuesday,15,Visa,PIN,?113,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,52.2,Barclays,0
+#3482 410,14-Oct-20,Wednesday,6,MasterCard,CVC,?20,Online,Entertainment,Russia,Russia,United Kingdom,F,70.5,Metro,1
+#3465 417,13-Oct-20,Tuesday,3,Visa,CVC,?17,Online,Entertainment,India,India,United Kingdom,M,18.6,Halifax,1
+#3354 171,14-Oct-20,Wednesday,22,MasterCard,CVC,?215,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,40.2,Metro,0
+#3551 300,13-Oct-20,Tuesday,14,Visa,CVC,?372,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,48.4,Metro,0
+#2580 939,14-Oct-20,Wednesday,10,Visa,CVC,?29,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,69.2,Metro,0
+#2928 491,14-Oct-20,Wednesday,18,MasterCard,CVC,?29,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,35,Barclays,0
+#2696 044,14-Oct-20,Wednesday,14,MasterCard,PIN,?27,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,46.5,Lloyds,0
+#3120 167,14-Oct-20,Wednesday,16,Visa,PIN,?19,ATM,Restaurant,China,China,United Kingdom,F,34.5,Barclays,1
+#2935 560,13-Oct-20,Tuesday,21,Visa,CVC,?146,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,48.7,Barclays,0
+#2787 653,13-Oct-20,Tuesday,21,Visa,CVC,?86,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,74.1,Monzo,0
+#3229 265,14-Oct-20,Wednesday,12,MasterCard,Tap,?12,POS,Food,Russia,Russia,Russia,F,50.9,Monzo,0
+#2768 699,14-Oct-20,Wednesday,10,MasterCard,PIN,?221,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,46.3,Barclays,0
+#3119 266,13-Oct-20,Tuesday,14,MasterCard,CVC,?17,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,53.6,HSBC,0
+#3632 282,14-Oct-20,Wednesday,9,MasterCard,CVC,?85,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,39.2,Lloyds,0
+#3684 011,14-Oct-20,Wednesday,10,MasterCard,PIN,?381,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,33.7,Barclays,0
+#3625 439,14-Oct-20,Wednesday,7,Visa,CVC,?314,Online,Electronics,USA,USA,USA,F,50.7,Halifax,0
+#2622 977,14-Oct-20,Wednesday,13,Visa,PIN,?238,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,40.9,RBS,0
+#2612 134,13-Oct-20,Tuesday,9,MasterCard,Tap,?29,POS,Entertainment,United Kingdom,USA,United Kingdom,F,51.3,Monzo,0
+#3344 410,14-Oct-20,Wednesday,10,Visa,PIN,?21,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,47.8,Metro,0
+#3449 978,14-Oct-20,Wednesday,19,MasterCard,PIN,?23,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,54.6,Barclays,0
+#3322 971,13-Oct-20,Tuesday,10,Visa,CVC,?30,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,52.4,HSBC,0
+#3538 003,13-Oct-20,Tuesday,13,Visa,PIN,?9,ATM,Food,China,China,United Kingdom,F,37.9,Halifax,0
+#2736 732,14-Oct-20,Wednesday,22,MasterCard,PIN,?6,ATM,Subscription,Russia,Russia,Russia,M,55.5,Barclays,0
+#3462 631,14-Oct-20,Wednesday,11,Visa,Tap,?24,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,38,Barclays,0
+#3434 386,14-Oct-20,Wednesday,7,MasterCard,CVC,?313,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,33.2,Halifax,0
+#2576 383,13-Oct-20,Tuesday,8,MasterCard,PIN,?29,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,40.1,Barclays,0
+#3251 360,14-Oct-20,Wednesday,12,Visa,CVC,?139,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,47.2,Monzo,0
+#3445 485,13-Oct-20,Tuesday,23,Visa,Tap,?21,POS,Entertainment,United Kingdom,India,United Kingdom,F,34.7,Barclays,0
+#2960 322,13-Oct-20,Tuesday,15,Visa,PIN,?25,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,55.7,RBS,0
+#3604 718,13-Oct-20,Tuesday,12,Visa,CVC,?9,Online,Electronics,United Kingdom,China,United Kingdom,F,40.2,RBS,0
+#2697 043,13-Oct-20,Tuesday,12,Visa,CVC,?13,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,38.9,Barclays,0
+#3079 157,13-Oct-20,Tuesday,14,Visa,CVC,?78,Online,Services,India,India,United Kingdom,F,50.3,Lloyds,0
+#2773 896,13-Oct-20,Tuesday,20,Visa,PIN,?180,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,41,Lloyds,0
+#2657 709,13-Oct-20,Tuesday,7,Visa,PIN,?305,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,37.8,HSBC,0
+#3133 748,14-Oct-20,Wednesday,22,MasterCard,CVC,?309,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,36.9,Barclays,0
+#3592 958,13-Oct-20,Tuesday,16,Visa,Tap,?10,POS,Services,United Kingdom,United Kingdom,United Kingdom,F,61.3,RBS,0
+#3186 512,13-Oct-20,Tuesday,20,Visa,PIN,?219,ATM,Restaurant,United Kingdom,India,United Kingdom,F,53.5,Lloyds,0
+#3178 689,14-Oct-20,Wednesday,10,MasterCard,PIN,?222,ATM,Subscription,United Kingdom,India,United Kingdom,F,55.8,Monzo,0
+#3024 169,14-Oct-20,Wednesday,21,Visa,PIN,?79,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,53,HSBC,0
+#2566 061,13-Oct-20,Tuesday,15,MasterCard,Tap,?20,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,36.3,Metro,0
+#3592 078,13-Oct-20,Tuesday,15,MasterCard,CVC,?8,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,39,Barclays,0
+#2669 280,14-Oct-20,Wednesday,14,MasterCard,CVC,?60,Online,Food,United Kingdom,United Kingdom,United Kingdom,M,45.8,Metro,0
+#2576 995,14-Oct-20,Wednesday,20,MasterCard,PIN,?29,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,35,Barclays,0
+#3506 339,14-Oct-20,Wednesday,16,Visa,CVC,?23,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,32.4,Halifax,0
+#2701 369,14-Oct-20,Wednesday,18,MasterCard,PIN,?321,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,43.8,Barclays,0
+#2893 523,13-Oct-20,Tuesday,10,MasterCard,PIN,?77,POS,Electronics,India,India,India,F,58,Metro,0
+#2729 619,13-Oct-20,Tuesday,13,Visa,PIN,?257,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,34.4,Lloyds,0
+#2773 642,13-Oct-20,Tuesday,9,MasterCard,PIN,?21,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,46.4,Barclays,0
+#2594 146,13-Oct-20,Tuesday,17,MasterCard,PIN,?381,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,33.6,Barclays,0
+#3080 476,14-Oct-20,Wednesday,8,MasterCard,PIN,?9,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,60.3,Metro,0
+#2935 888,14-Oct-20,Wednesday,7,Visa,Tap,?13,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,48.8,Barclays,0
+#3218 807,14-Oct-20,Wednesday,23,MasterCard,PIN,?20,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,53.9,HSBC,0
+#3455 196,13-Oct-20,Tuesday,11,MasterCard,PIN,?22,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,38.7,Barclays,0
+#3155 771,13-Oct-20,Tuesday,22,MasterCard,PIN,?142,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,42.2,Barlcays,0
+#2889 853,14-Oct-20,Wednesday,13,Visa,CVC,?14,Online,Food,United Kingdom,United Kingdom,United Kingdom,M,67.2,Monzo,0
+#3388 650,13-Oct-20,Tuesday,21,Visa,Tap,?9,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,49.6,Barclays,0
+#2893 268,14-Oct-20,Wednesday,8,Visa,CVC,?28,Online,Products,United Kingdom,India,United Kingdom,F,36,Metro,0
+#3445 042,14-Oct-20,Wednesday,15,Visa,PIN,?69,POS,Entertainment,Russia,Russia,United Kingdom,M,44.8,RBS,0
+#2591 530,14-Oct-20,Wednesday,19,MasterCard,Tap,?22,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,42.2,Barclays,0
+#2639 698,13-Oct-20,Tuesday,21,MasterCard,PIN,?27,ATM,Food,United Kingdom,USA,United Kingdom,M,36.9,Barclays,1
+#2637 439,13-Oct-20,Tuesday,22,MasterCard,Tap,?19,POS,Services,United Kingdom,United Kingdom,United Kingdom,M,38,RBS,0
+#3031 242,14-Oct-20,Wednesday,7,Visa,PIN,?206,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,46.6,Halifax,0
+#3231 084,13-Oct-20,Tuesday,11,Visa,PIN,?395,ATM,Restaurant,India,India,India,M,42.7,Monzo,0
+#3538 307,13-Oct-20,Tuesday,20,Visa,PIN,?220,POS,Entertainment,United Kingdom,Russia,United Kingdom,F,17.2,Barclays,0
+#3674 746,13-Oct-20,Tuesday,7,Visa,PIN,?330,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,43.3,Barclays,0
+#3003 533,13-Oct-20,Tuesday,19,MasterCard,PIN,?15,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,30.8,Barclays,0
+#2734 389,13-Oct-20,Tuesday,18,MasterCard,PIN,?15,ATM,Gaming,USA,USA,USA,F,46.4,RBS,0
+#2709 228,13-Oct-20,Tuesday,9,MasterCard,CVC,?340,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,39,Barclays,0
+#3047 781,14-Oct-20,Wednesday,23,Visa,CVC,?82,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,45,RBS,0
+#3018 141,13-Oct-20,Tuesday,0,MasterCard,CVC,?327,Online,Children,India,India,United Kingdom,F,36.8,Barclays,1
+#2589 998,14-Oct-20,Wednesday,17,MasterCard,PIN,?27,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,51.7,Barclays,0
+#3544 029,13-Oct-20,Tuesday,7,Visa,CVC,?10,Online,Products,USA,USA,USA,M,34.2,Monzo,0
+#3521 372,13-Oct-20,Tuesday,20,Visa,PIN,?96,POS,Entertainment,China,China,United Kingdom,M,42.6,Halifax,0
+#2921 809,13-Oct-20,Tuesday,9,Visa,PIN,?129,ATM,Subscription,United Kingdom,China,United Kingdom,M,63.5,Barlcays,0
+#3603 922,14-Oct-20,Wednesday,9,Visa,PIN,?290,POS,Electronics,USA,USA,United Kingdom,M,42.6,HSBC,0
+#2953 717,13-Oct-20,Tuesday,6,MasterCard,CVC,?18,Online,Fashion,India,India,United Kingdom,M,43.6,Barclays,1
+#2756 929,13-Oct-20,Tuesday,9,Visa,PIN,?21,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,43.8,Barlcays,0
+#3427 069,14-Oct-20,Wednesday,8,Visa,PIN,?91,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,37.3,Barclays,0
+#3367 585,13-Oct-20,Tuesday,10,MasterCard,Tap,?7,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,M,28.8,Halifax,0
+#2601 893,13-Oct-20,Tuesday,15,MasterCard,Tap,?16,POS,Electronics,United Kingdom,India,United Kingdom,F,44.7,RBS,0
+#3390 134,14-Oct-20,Wednesday,14,MasterCard,PIN,?344,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,38.5,Monzo,0
+#3184 663,14-Oct-20,Wednesday,11,Visa,PIN,?13,ATM,Services,USA,USA,USA,F,56,Barclays,0
+#3227 713,14-Oct-20,Wednesday,14,MasterCard,Tap,?21,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,65.7,Lloyds,0
+#2898 341,13-Oct-20,Tuesday,20,Visa,CVC,?38,Online,Children,India,India,United Kingdom,M,66.8,Monzo,1
+#2625 376,14-Oct-20,Wednesday,21,Visa,CVC,?122,Online,Electronics,Russia,Russia,United Kingdom,M,54,Lloyds,1
+#3433 573,13-Oct-20,Tuesday,15,Visa,CVC,?20,Online,Electronics,United Kingdom,China,United Kingdom,F,49.1,Barclays,1
+#2609 925,14-Oct-20,Wednesday,17,MasterCard,PIN,?9,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,40.3,HSBC,0
+#2993 786,14-Oct-20,Wednesday,10,MasterCard,PIN,?41,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,42.3,RBS,0
+#3048 264,14-Oct-20,Wednesday,21,MasterCard,PIN,?60,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,46.6,RBS,0
+#3174 963,13-Oct-20,Tuesday,18,Visa,CVC,?303,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,33.9,Barclays,0
+#2717 675,14-Oct-20,Wednesday,10,Visa,PIN,?5,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,61.9,Barlcays,0
+#2713 487,14-Oct-20,Wednesday,10,MasterCard,Tap,?26,POS,Services,United Kingdom,India,United Kingdom,F,45.1,Metro,0
+#3512 597,14-Oct-20,Wednesday,21,Visa,PIN,?15,ATM,Fashion,Russia,United Kingdom,Russia,F,46,Barclays,0
+#3495 160,13-Oct-20,Tuesday,13,MasterCard,PIN,?132,ATM,Gaming,China,China,China,M,33.6,HSBC,0
+#2694 051,13-Oct-20,Tuesday,8,MasterCard,PIN,?7,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,41.1,Metro,0
+#2770 495,13-Oct-20,Tuesday,15,Visa,PIN,?277,POS,Services,China,China,China,M,60.5,Barlcays,0
+#2833 176,13-Oct-20,Tuesday,7,MasterCard,PIN,?356,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,53.2,Monzo,0
+#2566 101,14-Oct-20,Wednesday,9,MasterCard,Tap,?10,POS,Electronics,USA,USA,United Kingdom,M,41,Metro,1
+#2721 962,14-Oct-20,Wednesday,17,Visa,CVC,?289,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,39.4,Barclays,0
+#3099 482,13-Oct-20,Tuesday,16,MasterCard,PIN,?281,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,58.4,Metro,0
+#3017 034,13-Oct-20,Tuesday,13,Visa,Tap,?13,POS,Products,India,India,India,M,31.3,Metro,0
+#2688 783,13-Oct-20,Tuesday,18,MasterCard,PIN,?14,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,59.9,Barlcays,0
+#2640 470,14-Oct-20,Wednesday,17,MasterCard,CVC,?304,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,28.6,Monzo,0
+#3149 272,14-Oct-20,Wednesday,2,Visa,PIN,?241,POS,Entertainment,China,China,United Kingdom,M,48.6,Halifax,1
+#2955 016,13-Oct-20,Tuesday,17,MasterCard,PIN,?6,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,51.5,RBS,0
+#3071 279,13-Oct-20,Tuesday,3,MasterCard,PIN,?27,POS,Fashion,Russia,Russia,United Kingdom,M,67.6,Lloyds,1
+#3449 783,14-Oct-20,Wednesday,20,Visa,PIN,?42,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,29.3,Monzo,0
+#3659 045,14-Oct-20,Wednesday,18,Visa,PIN,?18,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,48,Barclays,0
+#2730 584,13-Oct-20,Tuesday,7,MasterCard,PIN,?27,ATM,Gaming,China,China,China,F,40.6,HSBC,0
+#3683 051,13-Oct-20,Tuesday,12,MasterCard,PIN,?95,ATM,Children,India,India,United Kingdom,M,42.4,Halifax,0
+#2756 008,13-Oct-20,Tuesday,23,Visa,CVC,?211,Online,Entertainment,United Kingdom,USA,United Kingdom,F,48.2,Barlcays,0
+#3145 454,14-Oct-20,Wednesday,21,Visa,Tap,?23,POS,Electronics,United Kingdom,India,United Kingdom,M,32.3,Lloyds,0
+#2809 005,13-Oct-20,Tuesday,21,Visa,PIN,?15,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,51.6,Barclays,0
+#2955 294,14-Oct-20,Wednesday,12,Visa,CVC,?15,Online,Food,United Kingdom,Russia,United Kingdom,F,35.5,Monzo,0
+#3010 603,14-Oct-20,Wednesday,0,MasterCard,Tap,?7,POS,Fashion,Russia,Russia,United Kingdom,F,21.9,HSBC,1
+#2884 789,13-Oct-20,Tuesday,22,Visa,Tap,?13,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,31.3,Lloyds,0
+#2559 947,14-Oct-20,Wednesday,9,Visa,CVC,?257,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,38.7,Metro,0
+#3429 323,14-Oct-20,Wednesday,14,MasterCard,PIN,?253,ATM,Food,United Kingdom,United Kingdom,United Kingdom,F,53.1,Halifax,0
+#2834 720,13-Oct-20,Tuesday,10,Visa,PIN,?29,ATM,Electronics,USA,USA,USA,F,49.9,Monzo,0
+#3358 222,14-Oct-20,Wednesday,12,Visa,PIN,?16,ATM,Services,Russia,Russia,Russia,M,29.7,Barclays,0
+#2734 939,13-Oct-20,Tuesday,13,MasterCard,CVC,?389,Online,Food,India,India,United Kingdom,F,39.6,Barclays,0
+#2885 125,14-Oct-20,Wednesday,14,Visa,PIN,?8,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,41,Barclays,0
+#3326 351,13-Oct-20,Tuesday,10,Visa,CVC,?335,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,51.5,Barclays,0
+#2875 025,14-Oct-20,Wednesday,16,MasterCard,PIN,?299,ATM,Electronics,China,China,China,M,52.1,Barlcays,0
+#3131 319,13-Oct-20,Tuesday,21,MasterCard,Tap,?21,POS,Fashion,USA,USA,USA,M,65.3,Monzo,0
+#3583 880,14-Oct-20,Wednesday,21,Visa,CVC,?10,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,41.7,RBS,0
+#2789 653,13-Oct-20,Tuesday,22,Visa,PIN,?24,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,43.5,Barclays,0
+#2574 544,14-Oct-20,Wednesday,0,Visa,PIN,?11,ATM,Restaurant,China,China,United Kingdom,F,33.5,Metro,1
+#2817 204,13-Oct-20,Tuesday,23,MasterCard,PIN,?296,POS,Electronics,India,India,India,M,50.6,Barclays,0
+#3067 276,13-Oct-20,Tuesday,10,Visa,CVC,?12,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,32.6,Barlcays,0
+#2651 839,13-Oct-20,Tuesday,16,MasterCard,CVC,?28,Online,Fashion,United Kingdom,Russia,United Kingdom,F,53.6,Barclays,0
+#3398 914,14-Oct-20,Wednesday,17,Visa,Tap,?18,POS,Entertainment,India,India,India,M,57.9,RBS,0
+#3559 857,14-Oct-20,Wednesday,9,MasterCard,PIN,?13,ATM,Restaurant,United Kingdom,China,United Kingdom,F,53.8,Halifax,0
+#3260 655,14-Oct-20,Wednesday,20,MasterCard,PIN,?114,ATM,Services,Russia,Russia,Russia,M,27.9,Metro,0
+#3532 860,14-Oct-20,Wednesday,7,Visa,CVC,?53,Online,Fashion,China,China,United Kingdom,F,31.1,HSBC,0
+#3394 216,14-Oct-20,Wednesday,22,Visa,CVC,?11,Online,Food,China,China,China,F,52.6,RBS,0
+#2905 452,13-Oct-20,Tuesday,21,Visa,PIN,?81,ATM,Food,China,China,United Kingdom,F,44.2,Barclays,0
+#3071 601,14-Oct-20,Wednesday,22,Visa,PIN,?253,ATM,Children,China,China,China,F,37.3,RBS,0
+#3262 691,14-Oct-20,Wednesday,23,Visa,CVC,?148,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,23.8,Monzo,0
+#3141 725,14-Oct-20,Wednesday,16,Visa,CVC,?358,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,49.1,RBS,0
+#2673 770,13-Oct-20,Tuesday,19,Visa,PIN,?241,POS,Food,India,India,India,F,46.4,RBS,0
+#2710 174,13-Oct-20,Tuesday,16,MasterCard,CVC,?194,Online,Children,India,India,India,M,47.6,RBS,0
+#3496 514,13-Oct-20,Tuesday,13,MasterCard,PIN,?155,POS,Fashion,United Kingdom,India,United Kingdom,F,51,Barclays,0
+#3389 436,14-Oct-20,Wednesday,15,Visa,PIN,?356,POS,Services,Russia,Russia,United Kingdom,M,44.9,Metro,0
+#3616 193,14-Oct-20,Wednesday,12,MasterCard,PIN,?144,POS,Electronics,United Kingdom,China,United Kingdom,F,53.1,Lloyds,0
+#2914 486,14-Oct-20,Wednesday,9,MasterCard,PIN,?23,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,43.8,Metro,0
+#2959 027,13-Oct-20,Tuesday,14,Visa,CVC,?182,Online,Electronics,United Kingdom,China,United Kingdom,F,40.6,Halifax,0
+#3336 337,13-Oct-20,Tuesday,11,Visa,PIN,?25,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,23.9,Halifax,0
+#2569 519,14-Oct-20,Wednesday,19,Visa,PIN,?29,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,39.6,Barclays,0
+#3288 983,13-Oct-20,Tuesday,13,MasterCard,PIN,?16,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,38.8,HSBC,0
+#2846 586,13-Oct-20,Tuesday,9,MasterCard,PIN,?390,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,62.6,Barclays,0
+#3144 447,14-Oct-20,Wednesday,15,Visa,PIN,?16,ATM,Electronics,USA,USA,USA,F,45.2,Metro,0
+#3146 694,14-Oct-20,Wednesday,19,MasterCard,Tap,?10,POS,Gaming,China,China,China,F,47.7,Monzo,0
+#3351 144,13-Oct-20,Tuesday,21,Visa,PIN,?250,POS,Electronics,United Kingdom,India,United Kingdom,M,23.8,Barclays,0
+#3108 732,13-Oct-20,Tuesday,17,MasterCard,CVC,?29,Online,Fashion,India,India,India,M,49,Barclays,0
+#3001 909,14-Oct-20,Wednesday,20,MasterCard,CVC,?14,Online,Services,India,India,India,M,63.2,Monzo,0
+#3584 369,13-Oct-20,Tuesday,19,MasterCard,CVC,?14,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,35.6,Halifax,0
+#3394 575,14-Oct-20,Wednesday,23,Visa,Tap,?30,POS,Subscription,China,China,China,M,47.3,Barclays,0
+#3506 547,13-Oct-20,Tuesday,11,Visa,Tap,?13,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,52.5,Halifax,0
+#2746 765,14-Oct-20,Wednesday,9,MasterCard,CVC,?239,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,38.4,Barclays,0
+#3276 310,14-Oct-20,Wednesday,21,MasterCard,CVC,?38,Online,Gaming,India,India,United Kingdom,F,47.1,HSBC,0
+#3244 254,14-Oct-20,Wednesday,14,MasterCard,PIN,?122,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,54.7,Barclays,0
+#3306 433,13-Oct-20,Tuesday,11,Visa,CVC,?16,Online,Gaming,India,India,United Kingdom,M,51.1,Barlcays,1
+#3426 083,14-Oct-20,Wednesday,10,MasterCard,CVC,?20,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,56.2,Barclays,0
+#2676 841,14-Oct-20,Wednesday,16,MasterCard,PIN,?21,ATM,Electronics,Russia,Russia,Russia,M,52.3,Metro,0
+#2879 025,14-Oct-20,Wednesday,16,Visa,PIN,?137,ATM,Products,Russia,Russia,Russia,F,71.1,RBS,0
+#2986 178,14-Oct-20,Wednesday,11,Visa,PIN,?7,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,41.8,Barclays,0
+#3497 464,13-Oct-20,Tuesday,7,MasterCard,PIN,?392,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,32.2,Barlcays,0
+#3197 705,14-Oct-20,Wednesday,14,Visa,CVC,?342,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,33.3,RBS,0
+#3394 085,14-Oct-20,Wednesday,9,Visa,CVC,?175,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,60.6,RBS,0
+#3041 110,13-Oct-20,Tuesday,17,MasterCard,CVC,?24,Online,Gaming,United Kingdom,China,United Kingdom,F,52.6,HSBC,0
+#3679 842,14-Oct-20,Wednesday,19,MasterCard,Tap,?18,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,62.7,Monzo,0
+#3676 590,13-Oct-20,Tuesday,17,Visa,PIN,?36,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,53.2,Barlcays,0
+#3580 604,14-Oct-20,Wednesday,17,Visa,Tap,?27,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,56.1,Metro,0
+#2916 213,14-Oct-20,Wednesday,7,MasterCard,PIN,?6,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,39.7,Barclays,0
+#3227 338,13-Oct-20,Tuesday,9,MasterCard,Tap,?5,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,30.5,Barclays,0
+#2571 479,13-Oct-20,Tuesday,7,MasterCard,PIN,?136,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,38.5,Metro,0
+#3483 922,14-Oct-20,Wednesday,7,Visa,PIN,?224,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,46.4,Metro,0
+#3127 795,14-Oct-20,Wednesday,21,MasterCard,CVC,?28,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,42.9,Barlcays,0
+#2823 723,14-Oct-20,Wednesday,21,Visa,CVC,?8,Online,Children,United Kingdom,India,United Kingdom,M,46.5,Metro,1
+#2699 083,14-Oct-20,Wednesday,15,MasterCard,Tap,?16,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,45.5,Barclays,0
+#2784 354,13-Oct-20,Tuesday,21,MasterCard,PIN,?8,ATM,Services,United Kingdom,United Kingdom,United Kingdom,F,50.1,RBS,0
+#2997 011,13-Oct-20,Tuesday,17,Visa,Tap,?28,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,40.2,Barlcays,0
+#2656 664,14-Oct-20,Wednesday,8,Visa,PIN,?233,POS,Electronics,India,India,United Kingdom,M,57.6,HSBC,0
+#2928 206,14-Oct-20,Wednesday,12,Visa,PIN,?24,ATM,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,35.4,Barclays,0
+#3683 242,13-Oct-20,Tuesday,21,Visa,PIN,?28,ATM,Electronics,USA,USA,United Kingdom,F,47.6,Barclays,1
+#3625 701,13-Oct-20,Tuesday,17,Visa,PIN,?229,ATM,Entertainment,India,India,India,F,52.6,Monzo,0
+#3344 817,13-Oct-20,Tuesday,14,Visa,PIN,?27,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,M,37.3,Barclays,0
+#2723 501,14-Oct-20,Wednesday,20,Visa,PIN,?21,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,55.2,Barclays,0
+#3398 170,14-Oct-20,Wednesday,8,MasterCard,CVC,?13,Online,Services,United Kingdom,USA,United Kingdom,F,48,RBS,0
+#3535 311,14-Oct-20,Wednesday,14,Visa,Tap,?23,POS,Food,Russia,Russia,United Kingdom,F,43,Metro,1
+#3384 030,14-Oct-20,Wednesday,19,MasterCard,PIN,?13,ATM,Food,Russia,Russia,Russia,F,21.6,Barclays,0
+#3026 570,13-Oct-20,Tuesday,21,Visa,PIN,?35,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,46.3,Barclays,0
+#2977 600,14-Oct-20,Wednesday,22,Visa,CVC,?23,Online,Gaming,India,India,United Kingdom,M,50.9,Barclays,1
+#2734 104,13-Oct-20,Tuesday,22,MasterCard,CVC,?31,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,27,Barclays,0
+#2798 302,14-Oct-20,Wednesday,19,MasterCard,CVC,?14,Online,Gaming,India,India,India,F,49.8,Metro,0
+#2888 210,13-Oct-20,Tuesday,19,Visa,PIN,?224,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,53.9,HSBC,0
+#3041 143,13-Oct-20,Tuesday,18,Visa,PIN,?20,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,41.6,Barlcays,0
+#2655 096,14-Oct-20,Wednesday,2,Visa,PIN,?19,ATM,Restaurant,United Kingdom,India,United Kingdom,M,51.4,Barclays,1
+#3519 944,14-Oct-20,Wednesday,11,Visa,PIN,?251,ATM,Food,United Kingdom,China,United Kingdom,F,53.5,Lloyds,0
+#3536 420,14-Oct-20,Wednesday,3,Visa,PIN,?95,POS,Electronics,Russia,Russia,United Kingdom,M,55.8,Halifax,1
+#3085 872,13-Oct-20,Tuesday,18,Visa,CVC,?6,Online,Food,USA,USA,USA,M,43.5,Lloyds,0
+#3161 617,14-Oct-20,Wednesday,19,Visa,CVC,?186,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,M,39.7,RBS,0
+#3683 451,14-Oct-20,Wednesday,11,MasterCard,Tap,?26,POS,Services,United Kingdom,China,United Kingdom,M,47.6,Metro,0
+#3476 821,13-Oct-20,Tuesday,8,Visa,PIN,?298,POS,Entertainment,China,China,United Kingdom,M,42.5,Halifax,0
+#2732 568,13-Oct-20,Tuesday,22,MasterCard,PIN,?10,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,51.9,Barlcays,0
+#3649 560,13-Oct-20,Tuesday,14,Visa,PIN,?282,ATM,Food,India,India,India,M,49.1,HSBC,0
+#3119 426,14-Oct-20,Wednesday,9,Visa,PIN,?48,ATM,Children,USA,USA,USA,M,45.9,HSBC,0
+#3375 912,14-Oct-20,Wednesday,13,Visa,Tap,?15,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,F,32,HSBC,0
+#3342 563,13-Oct-20,Tuesday,9,Visa,PIN,?101,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,39.4,HSBC,0
+#2868 427,13-Oct-20,Tuesday,17,Visa,PIN,?16,ATM,Electronics,United Kingdom,India,United Kingdom,M,62.9,Barlcays,0
+#2786 748,13-Oct-20,Tuesday,20,Visa,PIN,?384,POS,Food,India,India,India,F,38.1,HSBC,0
+#3370 742,14-Oct-20,Wednesday,9,Visa,Tap,?21,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,36.4,Barclays,0
+#2785 879,13-Oct-20,Tuesday,10,MasterCard,CVC,?6,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,50.5,Halifax,0
+#3096 351,14-Oct-20,Wednesday,12,MasterCard,PIN,?329,POS,Restaurant,USA,USA,USA,F,49.6,Lloyds,0
+#2902 045,13-Oct-20,Tuesday,15,MasterCard,Tap,?28,POS,Electronics,USA,USA,USA,F,52.9,Barclays,0
+#3103 053,13-Oct-20,Tuesday,7,Visa,PIN,?15,ATM,Food,United Kingdom,United Kingdom,United Kingdom,M,43.5,Halifax,0
+#3638 414,13-Oct-20,Tuesday,16,Visa,CVC,?44,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,53.3,Lloyds,0
+#2905 862,13-Oct-20,Tuesday,14,MasterCard,CVC,?398,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,38.6,Metro,0
+#2639 909,13-Oct-20,Tuesday,15,Visa,PIN,?208,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,46.6,RBS,0
+#3220 697,14-Oct-20,Wednesday,11,MasterCard,CVC,?12,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,61,Barclays,0
+#3378 016,13-Oct-20,Tuesday,17,MasterCard,PIN,?167,ATM,Gaming,Russia,Russia,Russia,F,52.1,Barclays,0
+#3248 467,14-Oct-20,Wednesday,22,Visa,PIN,?17,ATM,Restaurant,Russia,Russia,United Kingdom,M,54.8,Barlcays,0
+#3020 045,13-Oct-20,Tuesday,21,Visa,CVC,?158,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,48.9,Lloyds,0
+#2613 976,14-Oct-20,Wednesday,17,Visa,Tap,?30,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,43.5,Barclays,0
+#3241 243,13-Oct-20,Tuesday,14,Visa,Tap,?6,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,41.2,Metro,0
+#3339 165,14-Oct-20,Wednesday,20,MasterCard,CVC,?76,Online,Products,United Kingdom,United Kingdom,United Kingdom,M,49.4,Monzo,0
+#2653 387,14-Oct-20,Wednesday,20,MasterCard,PIN,?303,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,48.4,Lloyds,0
+#2976 348,14-Oct-20,Wednesday,18,MasterCard,PIN,?136,POS,Services,India,India,India,M,38.1,RBS,0
+#2856 829,14-Oct-20,Wednesday,15,MasterCard,PIN,?372,ATM,Gaming,India,India,India,F,58.4,Barclays,0
+#2779 166,13-Oct-20,Tuesday,7,MasterCard,CVC,?24,Online,Products,United Kingdom,United Kingdom,United Kingdom,F,30.2,Barlcays,0
+#2792 594,14-Oct-20,Wednesday,23,Visa,PIN,?19,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,45.8,Barclays,0
+#3279 303,13-Oct-20,Tuesday,16,Visa,PIN,?64,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,40.5,Barclays,0
+#3177 341,13-Oct-20,Tuesday,8,Visa,PIN,?256,ATM,Gaming,Russia,Russia,Russia,M,53.5,HSBC,0
+#3393 713,14-Oct-20,Wednesday,2,Visa,CVC,?341,Online,Children,United Kingdom,China,United Kingdom,F,51.9,HSBC,1
+#3555 106,14-Oct-20,Wednesday,8,Visa,CVC,?30,Online,Food,United Kingdom,United Kingdom,United Kingdom,F,56.8,Metro,0
+#3195 542,14-Oct-20,Wednesday,19,MasterCard,PIN,?351,ATM,Gaming,China,China,China,F,43.6,Barclays,0
+#3152 255,14-Oct-20,Wednesday,20,MasterCard,PIN,?188,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,33.7,Monzo,0
+#3521 136,14-Oct-20,Wednesday,19,MasterCard,Tap,?17,POS,Restaurant,United Kingdom,USA,United Kingdom,F,60.3,Monzo,0
+#3573 390,14-Oct-20,Wednesday,4,Visa,CVC,?24,Online,Restaurant,USA,USA,United Kingdom,F,39.9,Barclays,1
+#3673 594,13-Oct-20,Tuesday,7,MasterCard,Tap,?12,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,46.3,Halifax,0
+#2695 378,14-Oct-20,Wednesday,20,Visa,PIN,?261,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,48.3,Monzo,0
+#2804 922,13-Oct-20,Tuesday,23,MasterCard,Tap,?26,POS,Children,United Kingdom,United Kingdom,United Kingdom,F,37,Barclays,0
+#3154 233,13-Oct-20,Tuesday,13,MasterCard,PIN,?21,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,63.6,HSBC,0
+#3109 263,14-Oct-20,Wednesday,15,Visa,PIN,?53,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,54.4,Barclays,0
+#3441 105,14-Oct-20,Wednesday,9,Visa,Tap,?27,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,32,Monzo,0
+#2925 284,13-Oct-20,Tuesday,17,Visa,PIN,?22,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,40.6,Halifax,0
+#3495 203,14-Oct-20,Wednesday,12,MasterCard,CVC,?18,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,36.7,HSBC,0
+#3444 617,13-Oct-20,Tuesday,14,Visa,CVC,?12,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,36.3,Metro,0
+#2760 556,13-Oct-20,Tuesday,0,Visa,CVC,?17,Online,Fashion,USA,USA,United Kingdom,F,47.7,Barlcays,1
+#3049 511,13-Oct-20,Tuesday,16,Visa,CVC,?388,Online,Gaming,United Kingdom,USA,United Kingdom,M,54.6,Barclays,0
+#3005 850,14-Oct-20,Wednesday,19,Visa,PIN,?351,POS,Services,China,China,China,F,34.4,Monzo,0
+#2889 388,13-Oct-20,Tuesday,12,MasterCard,CVC,?27,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,45.1,Monzo,0
+#3184 182,14-Oct-20,Wednesday,13,MasterCard,PIN,?172,POS,Food,USA,USA,United Kingdom,F,47.9,Metro,0
+#3473 432,14-Oct-20,Wednesday,13,MasterCard,PIN,?28,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,33.2,Barclays,0
+#3638 912,13-Oct-20,Tuesday,7,Visa,PIN,?264,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,52.7,Halifax,0
+#3116 544,14-Oct-20,Wednesday,19,Visa,CVC,?264,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,32.2,RBS,0
+#3211 743,13-Oct-20,Tuesday,22,Visa,PIN,?52,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,36.4,Barclays,0
+#2932 603,14-Oct-20,Wednesday,11,MasterCard,PIN,?178,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,44,HSBC,0
+#3252 858,13-Oct-20,Tuesday,20,Visa,Tap,?7,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,32.8,Barclays,0
+#3309 373,13-Oct-20,Tuesday,9,MasterCard,PIN,?277,POS,Food,United Kingdom,United Kingdom,United Kingdom,M,45.6,Barlcays,0
+#3490 992,14-Oct-20,Wednesday,18,MasterCard,CVC,?136,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,47.5,Barclays,0
+#3377 741,14-Oct-20,Wednesday,9,MasterCard,PIN,?18,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,48.3,Barclays,0
+#2738 715,14-Oct-20,Wednesday,23,MasterCard,PIN,?10,ATM,Fashion,Russia,Russia,United Kingdom,F,56.5,Barclays,1
+#2737 834,13-Oct-20,Tuesday,16,Visa,Tap,?20,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,53.8,Barclays,0
+#2925 657,13-Oct-20,Tuesday,7,Visa,Tap,?15,POS,Electronics,Russia,Russia,Russia,F,54.9,Barlcays,0
+#2965 506,13-Oct-20,Tuesday,11,MasterCard,PIN,?392,POS,Products,United Kingdom,United Kingdom,United Kingdom,F,54.3,Lloyds,0
+#2661 924,13-Oct-20,Tuesday,10,Visa,Tap,?17,POS,Children,United Kingdom,China,United Kingdom,M,45,Barclays,1
+#2966 034,14-Oct-20,Wednesday,9,MasterCard,Tap,?10,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,F,33.6,Barclays,0
+#3213 515,14-Oct-20,Wednesday,7,MasterCard,PIN,?391,POS,Electronics,United Kingdom,India,United Kingdom,F,42.5,HSBC,0
+#2842 658,14-Oct-20,Wednesday,13,MasterCard,PIN,?17,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,35.2,Metro,0
+#2578 206,14-Oct-20,Wednesday,16,MasterCard,CVC,?241,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,40.7,Metro,0
+#3074 771,13-Oct-20,Tuesday,3,Visa,PIN,?17,ATM,Children,USA,United Kingdom,USA,M,37.9,Barclays,1
+#3280 123,14-Oct-20,Wednesday,7,Visa,CVC,?15,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,65.2,Barclays,0
+#3363 917,13-Oct-20,Tuesday,18,Visa,PIN,?216,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,51.4,Halifax,0
+#3213 320,13-Oct-20,Tuesday,10,Visa,CVC,?18,Online,Entertainment,China,China,China,F,50.1,Barclays,0
+#3584 401,14-Oct-20,Wednesday,14,Visa,CVC,?15,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,35.2,Barclays,0
+#2624 990,13-Oct-20,Tuesday,16,MasterCard,Tap,?22,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,47,Barlcays,0
+#3549 833,14-Oct-20,Wednesday,16,MasterCard,CVC,?18,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,39.5,Barlcays,0
+#2642 755,14-Oct-20,Wednesday,11,Visa,PIN,?146,ATM,Gaming,United Kingdom,United Kingdom,United Kingdom,F,46.4,RBS,0
+#3147 388,13-Oct-20,Tuesday,5,Visa,Tap,?28,POS,Entertainment,India,India,United Kingdom,F,33.6,Lloyds,1
+#3159 902,13-Oct-20,Tuesday,18,Visa,PIN,?84,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,40,Barclays,0
+#3213 085,14-Oct-20,Wednesday,16,Visa,CVC,?24,Online,Children,China,China,China,M,47.9,Barclays,0
+#3054 092,13-Oct-20,Tuesday,17,MasterCard,CVC,?246,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,41.2,RBS,0
+#3414 187,14-Oct-20,Wednesday,22,Visa,Tap,?7,POS,Restaurant,Russia,Russia,Russia,M,45.3,HSBC,0
+#2555 725,14-Oct-20,Wednesday,7,Visa,CVC,?281,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,F,37.3,Barclays,0
+#3186 504,13-Oct-20,Tuesday,21,Visa,CVC,?20,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,52.1,Metro,0
+#2616 669,13-Oct-20,Tuesday,11,MasterCard,PIN,?275,POS,Food,United Kingdom,India,United Kingdom,F,51.3,Barclays,0
+#3596 048,14-Oct-20,Wednesday,17,MasterCard,CVC,?17,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,43.3,HSBC,0
+#2941 351,13-Oct-20,Tuesday,11,Visa,PIN,?299,ATM,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,52.9,Barclays,0
+#3077 631,13-Oct-20,Tuesday,9,MasterCard,Tap,?25,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,61.1,Lloyds,0
+#2966 218,13-Oct-20,Tuesday,22,Visa,PIN,?13,ATM,Fashion,India,India,United Kingdom,F,49.7,Barlcays,1
+#2661 643,14-Oct-20,Wednesday,10,MasterCard,PIN,?63,ATM,Electronics,United Kingdom,China,United Kingdom,M,48.8,Barclays,0
+#3258 466,13-Oct-20,Tuesday,18,MasterCard,Tap,?5,POS,Gaming,United Kingdom,India,United Kingdom,M,38.5,Halifax,0
+#2849 563,14-Oct-20,Wednesday,20,MasterCard,CVC,?72,Online,Food,Russia,Russia,Russia,F,43.8,Monzo,0
+#3629 330,14-Oct-20,Wednesday,11,Visa,CVC,?237,Online,Subscription,China,China,China,F,43.7,Halifax,0
+#2707 562,14-Oct-20,Wednesday,18,MasterCard,Tap,?16,POS,Food,Russia,Russia,United Kingdom,M,52.1,HSBC,1
+#3659 384,13-Oct-20,Tuesday,14,MasterCard,PIN,?234,POS,Products,China,China,United Kingdom,M,50.4,Monzo,0
+#3503 697,14-Oct-20,Wednesday,9,Visa,PIN,?211,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,43,Barclays,0
+#3020 363,14-Oct-20,Wednesday,17,MasterCard,PIN,?13,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,42.7,Barclays,0
+#2604 640,14-Oct-20,Wednesday,9,MasterCard,CVC,?26,Online,Entertainment,Russia,Russia,Russia,F,42.8,RBS,0
+#3670 275,14-Oct-20,Wednesday,18,MasterCard,PIN,?254,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,M,48.5,Lloyds,0
+#3047 207,13-Oct-20,Tuesday,11,Visa,PIN,?5,ATM,Services,China,China,United Kingdom,F,36.3,Halifax,0
+#3137 266,13-Oct-20,Tuesday,16,Visa,PIN,?89,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,41,Barclays,0
+#2620 159,14-Oct-20,Wednesday,17,MasterCard,CVC,?28,Online,Products,United Kingdom,China,United Kingdom,F,54.2,Barlcays,0
+#2892 815,13-Oct-20,Tuesday,18,MasterCard,PIN,?60,ATM,Fashion,Russia,Russia,United Kingdom,M,61.7,Barclays,1
+#3122 525,14-Oct-20,Wednesday,8,Visa,PIN,?263,ATM,Gaming,United Kingdom,India,United Kingdom,F,37.2,Barlcays,0
+#3314 299,14-Oct-20,Thursday,7,MasterCard,Tap,?25,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,31.2,Halifax,0
+#2729 359,13-Oct-20,Tuesday,21,Visa,PIN,?28,ATM,Children,United Kingdom,United Kingdom,United Kingdom,M,42.7,Metro,0
+#3551 189,14-Oct-20,Wednesday,17,MasterCard,PIN,?338,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,41.9,RBS,0
+#3210 986,14-Oct-20,Wednesday,21,Visa,PIN,?245,ATM,Gaming,India,India,United Kingdom,F,65.1,Monzo,0
+#3570 422,14-Oct-20,Wednesday,22,Visa,CVC,?188,Online,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,46.4,Halifax,0
+#2984 286,13-Oct-20,Tuesday,16,Visa,Tap,?25,POS,Children,USA,USA,USA,M,48.3,Metro,0
+#3124 454,13-Oct-20,Tuesday,15,Visa,CVC,?25,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,48,Barclays,0
+#3118 996,13-Oct-20,Tuesday,16,Visa,Tap,?5,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,44.8,Halifax,0
+#3500 705,14-Oct-20,Wednesday,13,Visa,CVC,?17,Online,Children,China,China,China,M,37.5,Halifax,0
+#2910 566,13-Oct-20,Tuesday,18,Visa,PIN,?30,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,34.6,Barlcays,0
+#2608 302,13-Oct-20,Tuesday,22,Visa,Tap,?15,POS,Services,United Kingdom,China,United Kingdom,M,40.2,Lloyds,0
+#3329 798,13-Oct-20,Tuesday,23,MasterCard,Tap,?19,POS,Subscription,USA,USA,USA,M,63.1,Barlcays,0
+#3389 693,13-Oct-20,Tuesday,12,Visa,CVC,?363,Online,Entertainment,United Kingdom,China,United Kingdom,M,46,RBS,0
+#2601 984,13-Oct-20,Tuesday,3,MasterCard,CVC,?251,Online,Children,China,China,United Kingdom,F,43,Monzo,1
+#2980 601,14-Oct-20,Wednesday,15,MasterCard,PIN,?192,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,65.7,Barclays,0
+#2815 558,14-Oct-20,Wednesday,21,MasterCard,PIN,?171,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,47.8,RBS,0
+#2753 903,13-Oct-20,Tuesday,19,Visa,PIN,?29,POS,Food,United Kingdom,United Kingdom,United Kingdom,F,51.6,Barclays,0
+#3401 722,14-Oct-20,Wednesday,23,Visa,PIN,?6,ATM,Gaming,USA,USA,United Kingdom,M,60.7,Halifax,1
+#3581 475,14-Oct-20,Wednesday,19,Visa,PIN,?29,ATM,Restaurant,United Kingdom,India,United Kingdom,F,55.1,Monzo,0
+#3593 080,13-Oct-20,Tuesday,12,Visa,CVC,?24,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,48.5,Lloyds,0
+#2751 567,14-Oct-20,Wednesday,22,Visa,Tap,?11,POS,Electronics,United Kingdom,China,United Kingdom,F,42.6,HSBC,0
+#3673 267,14-Oct-20,Wednesday,23,MasterCard,PIN,?28,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,52.8,HSBC,0
+#3224 176,13-Oct-20,Tuesday,19,MasterCard,CVC,?24,Online,Products,United Kingdom,China,United Kingdom,M,41.5,Barclays,0
+#3618 611,13-Oct-20,Tuesday,17,Visa,CVC,?13,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,40.5,Barclays,0
+#2689 021,13-Oct-20,Tuesday,22,Visa,CVC,?286,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,53.6,Barlcays,0
+#3463 940,14-Oct-20,Wednesday,10,Visa,Tap,?10,POS,Products,India,India,India,F,41.6,Lloyds,0
+#3622 471,14-Oct-20,Wednesday,19,Visa,CVC,?28,Online,Entertainment,China,China,China,M,40.4,RBS,0
+#2961 625,14-Oct-20,Wednesday,15,MasterCard,CVC,?369,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,35.6,Metro,0
+#2637 281,14-Oct-20,Wednesday,22,MasterCard,Tap,?23,POS,Services,India,India,India,F,43.6,Metro,0
+#2644 967,14-Oct-20,Wednesday,20,MasterCard,PIN,?13,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,58.9,Barclays,0
+#3122 707,14-Oct-20,Wednesday,19,Visa,Tap,?17,POS,Products,USA,USA,United Kingdom,M,48.8,Monzo,1
+#2557 977,13-Oct-20,Tuesday,9,MasterCard,PIN,?13,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,F,47.5,Halifax,0
+#2551 137,14-Oct-20,Wednesday,8,Visa,CVC,?294,Online,Children,USA,USA,United Kingdom,F,52.6,Lloyds,1
+#2880 042,14-Oct-20,Wednesday,15,Visa,Tap,?9,POS,Subscription,United Kingdom,United Kingdom,United Kingdom,F,41.3,Barlcays,0
+#2827 300,14-Oct-20,Wednesday,16,MasterCard,PIN,?11,ATM,Fashion,India,United Kingdom,India,M,39.3,Metro,1
+#3612 319,13-Oct-20,Tuesday,7,MasterCard,PIN,?91,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,M,44.2,Lloyds,0
+#2852 126,14-Oct-20,Wednesday,21,Visa,PIN,?114,ATM,Restaurant,United Kingdom,Russia,United Kingdom,F,51.5,Monzo,0
+#2965 969,13-Oct-20,Tuesday,16,Visa,PIN,?23,ATM,Products,China,China,China,F,54.2,Barclays,0
+#3048 353,14-Oct-20,Wednesday,3,Visa,CVC,?24,Online,Subscription,Russia,Russia,United Kingdom,F,55.4,Halifax,1
+#2976 105,14-Oct-20,Wednesday,11,Visa,CVC,?9,Online,Gaming,United Kingdom,USA,United Kingdom,F,57.5,Barlcays,0
+#3376 607,13-Oct-20,Tuesday,8,Visa,CVC,?392,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,F,41.8,Barclays,0
+#3583 007,14-Oct-20,Wednesday,22,Visa,PIN,?376,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,F,48.4,HSBC,0
+#2957 028,14-Oct-20,Wednesday,16,MasterCard,CVC,?220,Online,Services,United Kingdom,United Kingdom,United Kingdom,F,50.5,Lloyds,0
+#3233 814,14-Oct-20,Wednesday,3,MasterCard,Tap,?21,POS,Restaurant,India,India,United Kingdom,M,44.3,Halifax,1
+#3652 141,14-Oct-20,Wednesday,23,MasterCard,PIN,?15,POS,Services,China,China,China,F,41.8,Barlcays,0
+#2646 970,13-Oct-20,Tuesday,6,Visa,PIN,?13,ATM,Products,India,India,United Kingdom,M,42,Halifax,1
+#3558 168,14-Oct-20,Wednesday,8,Visa,CVC,?16,Online,Subscription,United Kingdom,United Kingdom,United Kingdom,M,25.3,Lloyds,0
+#2802 004,13-Oct-20,Tuesday,17,MasterCard,PIN,?256,ATM,Products,USA,USA,United Kingdom,F,50.8,Lloyds,0
+#3637 232,14-Oct-20,Wednesday,22,Visa,PIN,?185,POS,Fashion,United Kingdom,United Kingdom,United Kingdom,M,62.2,Barlcays,0
+#2696 564,13-Oct-20,Tuesday,10,MasterCard,CVC,?135,Online,Electronics,United Kingdom,United Kingdom,United Kingdom,F,52.5,Barclays,0
+#2914 414,13-Oct-20,Tuesday,20,Visa,CVC,?153,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,56.3,Halifax,0
+#3114 057,13-Oct-20,Tuesday,20,MasterCard,PIN,?287,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,38.1,Halifax,0
+#2574 297,14-Oct-20,Wednesday,8,Visa,PIN,?196,ATM,Products,United Kingdom,United Kingdom,United Kingdom,F,46.2,RBS,0
+#3161 158,13-Oct-20,Tuesday,10,MasterCard,PIN,?181,ATM,Subscription,United Kingdom,United Kingdom,United Kingdom,M,54.2,Barclays,0
+#3294 257,13-Oct-20,Tuesday,7,Visa,CVC,?280,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,52.2,Halifax,0
+#3193 208,14-Oct-20,Wednesday,17,Visa,PIN,?216,ATM,Children,United Kingdom,United Kingdom,United Kingdom,F,39,Barlcays,0
+#2681 588,14-Oct-20,Wednesday,22,MasterCard,PIN,?138,ATM,Fashion,USA,USA,USA,M,54.2,Metro,0
+#3392 949,14-Oct-20,Wednesday,8,Visa,CVC,?5,Online,Fashion,United Kingdom,United Kingdom,United Kingdom,M,57.4,Metro,0
+#3426 599,13-Oct-20,Tuesday,21,MasterCard,CVC,?139,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,50.5,Barclays,0
+#2594 484,14-Oct-20,Wednesday,18,Visa,PIN,?11,ATM,Products,United Kingdom,United Kingdom,United Kingdom,M,59.1,Metro,0
+#2790 456,14-Oct-20,Wednesday,7,Visa,PIN,?51,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,72.4,Lloyds,0
+#3608 360,13-Oct-20,Tuesday,22,MasterCard,Tap,?24,POS,Products,United Kingdom,USA,United Kingdom,M,33.8,Barclays,0
+#3504 950,13-Oct-20,Tuesday,7,MasterCard,Tap,?12,POS,Children,United Kingdom,United Kingdom,United Kingdom,M,48.9,Metro,0
+#3154 021,14-Oct-20,Wednesday,10,Visa,PIN,?30,ATM,Services,Russia,Russia,United Kingdom,M,47,Barclays,0
+#3239 805,13-Oct-20,Tuesday,7,Visa,PIN,?16,ATM,Electronics,USA,USA,USA,M,52.5,Barclays,0
+#2906 254,14-Oct-20,Wednesday,21,MasterCard,CVC,?90,Online,Electronics,India,India,India,M,53.8,HSBC,0
+#3189 968,14-Oct-20,Wednesday,11,Visa,PIN,?37,POS,Electronics,United Kingdom,United Kingdom,United Kingdom,M,50.4,Barclays,0
+#3399 791,14-Oct-20,Wednesday,8,MasterCard,PIN,?21,ATM,Electronics,China,China,China,M,45.2,Metro,0
+#3685 788,14-Oct-20,Wednesday,4,MasterCard,CVC,?17,Online,Entertainment,Russia,Russia,United Kingdom,F,48.5,Metro,1
+#3070 663,14-Oct-20,Wednesday,16,MasterCard,Tap,?20,POS,Entertainment,United Kingdom,United Kingdom,United Kingdom,M,35.3,Monzo,0
+#3666 381,13-Oct-20,Tuesday,23,MasterCard,CVC,?80,Online,Gaming,United Kingdom,United Kingdom,United Kingdom,M,45.9,Barlcays,0
+#3179 280,13-Oct-20,Tuesday,23,Visa,PIN,?96,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,37.5,HSBC,0
+#2559 814,14-Oct-20,Wednesday,10,MasterCard,CVC,?12,Online,Services,China,China,United Kingdom,M,33.2,Barclays,1
+#2990 387,13-Oct-20,Tuesday,13,MasterCard,PIN,?25,ATM,Subscription,USA,USA,USA,M,39.7,Barclays,0
+#3022 280,14-Oct-20,Wednesday,22,MasterCard,PIN,?25,ATM,Fashion,United Kingdom,United Kingdom,United Kingdom,F,39.7,Monzo,0
+#3686 733,13-Oct-20,Tuesday,15,Visa,CVC,?14,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,60.6,Halifax,0
+#3161 602,13-Oct-20,Tuesday,17,Visa,PIN,?258,ATM,Food,United Kingdom,China,United Kingdom,F,52.7,Monzo,0
+#2805 266,13-Oct-20,Tuesday,14,MasterCard,Tap,?11,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,44.2,Barlcays,0
+#3226 546,14-Oct-20,Wednesday,17,MasterCard,PIN,?186,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,49.5,Barlcays,0
+#3426 340,13-Oct-20,Tuesday,7,Visa,CVC,?8,Online,Services,USA,USA,USA,F,38.5,Monzo,0
+#2891 340,14-Oct-20,Wednesday,10,MasterCard,PIN,?28,ATM,Subscription,China,China,China,M,27.5,HSBC,0
+#2906 827,13-Oct-20,Tuesday,23,Visa,PIN,?347,POS,Products,United Kingdom,United Kingdom,United Kingdom,M,48.7,RBS,0
+#3029 035,13-Oct-20,Tuesday,18,Visa,PIN,?390,POS,Restaurant,United Kingdom,United Kingdom,United Kingdom,M,25.3,Barclays,0
+#2903 435,13-Oct-20,Tuesday,9,Visa,PIN,?125,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,M,45.1,Barclays,0
+#3580 355,14-Oct-20,Wednesday,9,MasterCard,Tap,?11,POS,Fashion,United Kingdom,USA,United Kingdom,F,49.5,Halifax,0
+#3507 807,13-Oct-20,Tuesday,22,Visa,CVC,?188,Online,Services,United Kingdom,United Kingdom,United Kingdom,M,45.6,Barclays,0
+#3589 181,14-Oct-20,Wednesday,12,Visa,CVC,?80,Online,Children,United Kingdom,United Kingdom,United Kingdom,M,44.1,Barclays,0
+#2753 909,13-Oct-20,Tuesday,19,Visa,CVC,?195,Online,Products,Russia,Russia,United Kingdom,F,31.8,Barlcays,0
+#2700 114,14-Oct-20,Wednesday,11,MasterCard,PIN,?22,ATM,Services,United Kingdom,United Kingdom,United Kingdom,M,32.3,Metro,0
+#3554 222,14-Oct-20,Wednesday,10,MasterCard,PIN,?30,ATM,Subscription,China,China,China,M,35.1,Lloyds,0
+#3480 633,14-Oct-20,Wednesday,7,Visa,Tap,?28,POS,Gaming,United Kingdom,United Kingdom,United Kingdom,F,51.5,Barclays,0
+#3308 284,14-Oct-20,Wednesday,19,Visa,PIN,?18,ATM,Electronics,United Kingdom,United Kingdom,United Kingdom,F,33.8,Metro,0
+#2949 033,14-Oct-20,Wednesday,21,MasterCard,CVC,?217,Online,Entertainment,United Kingdom,United Kingdom,United Kingdom,F,35.4,HSBC,0
+#2787 768,13-Oct-20,Tuesday,11,Visa,CVC,?8,Online,Children,United Kingdom,United Kingdom,United Kingdom,F,52.7,Metro,0
+#2731 538,14-Oct-20,Wednesday,7,Visa,PIN,?348,ATM,Fashion,India,India,India,F,47,Barclays,0
